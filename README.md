@@ -47,10 +47,10 @@ Nvidia latest GPU that has drivers for Win8.1x64 is RTX 8000, P6000, Titan Xp, M
 but... RTX 8000, P6000, Titan Xp does Not work in OSX Mavericks 10.9.5 requires to buy 2x GPUs </br>
 or another GPU more compatible. </br>
 
-Windows 8.1 works in [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) UEFI v9.03 + [ASRock Thunderbolt 4 v1](https://www.asrock.com/mb/spec/product.asp?Model=Thunderbolt%204%20AIC)
-using Dual Boot: Linux & Win8.1 on separate SSD/M.2 </br>
+Windows 8.1 works in [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) UEFI v9.03 + [ASRock Thunderbolt 4 v1](https://www.asrock.com/mb/spec/product.asp?Model=Thunderbolt%204%20AIC) </br>
+Dual Boot: Linux 22.04 LTS & Win8.1 on separate SSD/M.2 </br>
 requires a GPU compatible with Windows8.1 </br>
-intel iGPU removed support for Legacy Boot in 12th Gen CPU's, 11 untested, 10th Gen iGPU and older Boot Legacy OS FAT32 500MB partition with BIOS or UEFI, </br>
+intel iGPU removed Legacy Boot in 12th Gen CPU's, 11th untested, 10th Gen iGPU and older Boot Legacy OS FAT32 500MB partition with BIOS or UEFI, </br>
 Win8.1x64 does Not Boot if has Both BIOS & UEFI on the Boot Partition. </br>
 
 having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like GOG </br>
