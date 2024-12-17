@@ -19,19 +19,20 @@ OSX HighSierra 10.13.6 is the peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU
 HighSierra also Read/Writes & Format APFS drives. </br>
 OSX Mojave 10.14 removes 32-Bit driver support, the last to support QuickTime required for ProTools & Avid Media composer Video Engine. </br> 
 OSX Catalina 10.15.7 is the last 100% intel, 100% 64-Bit, removed 32-Bit completely, preparing for the transition to ARM CPU's </br>
-OSX BigSur 11, using a RAM drive of 2GB, and a test file of 1GB in [Black Magic Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) or [AJA Speed Test](https://www.aja.com/products/aja-system-test), The Hybrid Kernel Runs slower on x86_64 vs. OSX Catalina pure x86_64 kernel. </br>
+OSX BigSur 11, using a RAM drive of 2GB, and a test file of 1GB in [Black Magic Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) or [AJA Speed Test](https://www.aja.com/products/aja-system-test), </br>
+BigSur 11 Hybrid Kernel Runs slower on x86_64 vs. OSX Catalina pure x86_64 kernel. </br>
 BigSur 11 takes too much time to update from OSX Catalina, and does Not allow to Downgrade. </br>
 
-OSX SnowLeopard 10.6.8 cannot be installed on a Mac newer than 2010, </br>
+OSX SnowLeopard 10.6.8 cannot be installed on a Mac newer than 2010 </br>
 unless using a Virtual Machine like VMWare Fusion Player 10.2.1 on OSX Catalina </br>
 but VM does Not have FireWire support, Nor Firewire Pass-through, Nor PCIe Pass-through. </br>
 OSX SnowLeopard is designed for MacPro 5,1 2010 with AMD Radeon HD 5770, HD 5870, HD 7950, GTX Titan 6GB, K5000, Quadro 4000, and others. </br>
+runs on MacMini 2010, maybe 2011, 2012 or recent does Not. </br>
+Running a more recent VMWare than >10.2.1 requires OSX BigSur 11 or Newer, but OSX Hybrid Kernel becomes -30% slower on x86_64 </br>
 
-Running a more recent VMWare than >10.2.1 requires OSX BigSur or Newer, but OSX Hybrid Kernel becomes -30% slower. </br>
-
-Windows 8.1 is similar to OSX HighSierra, the Peak of 32-Bit & 64-Bit. </br>
-but Steem, Origin, Ubisoft re-compliled Launchers so it does Not work on Windows8.1 anymore = Gaming on Win8.1x64 is dead, unless its retro gaming, but some games like Need For Speed The Run probably wont work, </br>
-because requires Origin app account, Discontinued and Replaced by EA app. </br>
+Windows8.1 is similar to OSX HighSierra, the Peak of 32-Bit & 64-Bit. </br>
+but Steem, Origin, Ubisoft re-compliled Launchers so it does Not run on Windows8.1 anymore = Gaming on Win8.1x64 is dead, unless its retro gaming like Eduke32, </br>
+games like [Need For Speed - The Run (2011)](https://en.wikipedia.org/wiki/Need_for_Speed%3A_The_Run) probably wont work, because requires Origin app account, Discontinued and Replaced by EA app. </br>
 but still Win8.1 is important for other Windows Only software like [Microchip Studio for AVR & SAM Devices 7.0.2594 (20 Jun 2022)](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and older,
 for programmers like [STK 600](https://www.microchip.com/en-us/development-tool/ATSTK600) and older STK500, etc..., that require USB drivers. </br>
 but if Only requires USB drivers, probably is better to install Win8.1x64 in a Virtual Machine with USB pass-through. </br>
