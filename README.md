@@ -70,7 +70,7 @@ for example: </br>
 ProTools Ultimate [2020.12](https://avidtech.my.salesforce-sites.com/pkb/articles/en_US/Compatibility/Pro-Tools-Operating-System-Compatibility-Chart) + HDX PCIe + [Razer Core X Chroma](https://egpu.io/best-egpu-buyers-guide/) or similar. </br>
 ProTools HD10.3.10 + HD PCI-x or PCI-e + Magma expansion chassis </br>
 Matrox MXO2 MAX + Adobe CS6 Media Encoder / Avid Video Engine </br>
-imacon Photo / 343 / 646 / 848 / 949 SCSI A-sync scanner + FlexColor v4.0 software </br>
+imacon Photo / 343 / 646 / 848 / 949 SCSI Async scanner + FlexColor v4.0 software </br>
 Lynx AES16, RME hdsp 9632 </br>
 and others... </br>
 
