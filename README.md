@@ -59,6 +59,8 @@ requires a GPU compatible with Windows8.1 </br>
 intel iGPU removed Legacy Boot in 12th Gen CPU's, 11th untested, 10th Gen iGPU and older Boot Legacy OS FAT32 500MB partition with BIOS or UEFI, </br>
 Win8.1x64 does Not Boot if has Both BIOS & UEFI at same time on the Boot Partition. </br>
 
+OSX Cata 10.15.7 is limited to Intel 8th Gen in MacMini 2018 i7 8700B or MacPro 2019 </br>
+
 having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like GOG </br>
 better to game in Linux using Wine, Codeweavers, Bottles, Proton, PlayOnLinux </br>
 but Not everything works in Linux, </br>
