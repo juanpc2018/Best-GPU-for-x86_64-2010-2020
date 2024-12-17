@@ -68,7 +68,8 @@ ilok VST2 plugins work in Linux IF plugin allows to store license on the Machine
 because ilok-USB requires propietary drivers Not available for Linux, but ilok PC licence works on Wine. </br>
 
 Best GPU for Dual Boot: </br>
-Low Cost: GT 1050 Ti, perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP to run at 160fps, Low power consumption. </br>
+Low Cost: GT 1050 Ti  </br>
+perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP to run at 160fps, Low power consumption. </br>
 Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, </br>
 IF want Dual Boot: Win8.1x64 + Linux </br>
 to Game on Linux, in Windows a Fast GPU will be overkill, very few software will use it. </br>
