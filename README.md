@@ -10,7 +10,7 @@ The most important OS from that era in my opinion: </br>
 Linux Ubuntu / Kubuntu 10.04 LTS to *buntu 22.04.4 LTS x86_64 or similar .deb </br>
 
 for many Reasons: </br>
-OSX SnowLeopard has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) PowerPC G4 "emulator" Binary Translation, removed / deleted in OSX Lion 10.7 </br>
+OSX SnowLeopard 10.6.8 has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) PowerPC G4 "emulator" Binary Translation, removed / deleted in OSX Lion 10.7 </br>
 OSX Mavericks 10.9.5 is the last OS that works with ProTools HD10.3.10 also has 3rd party USB3.0 drivers for VL800 chip, and old Renesas Firmware, Not compatible in following OSX </br>
 OSX HighSierra 10.13.6 is the peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support and added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
 OSX Mojave 10.14 removes 32-Bit driver support, the last to support QuickTime, required for ProTools & Avid Media composer Video Engine. </br> 
