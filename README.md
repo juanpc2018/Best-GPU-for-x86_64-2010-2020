@@ -31,11 +31,14 @@ but Steem, Origin, Ubisoft re-compliled Launchers so it does Not work on Windows
 because requires Origin app account, Discontinued and Replaced by EA app. </br>
 but still Win8.1 is important for other Windows Only software like [Microchip Studio for AVR and SAM Devices- Offline Installer 7.0.2594 	20 Jun 2022 ](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and older,
 for programmers like [STK 600](https://www.microchip.com/en-us/development-tool/ATSTK600) and older STK500, etc..., that require USB drivers. </br>
+but if Only requires USB drivers, probasbly is better to install Win8.1x64 in a Virtual Machine with USB pass-through. </br>
 
-The title of this Repo is "Best GPU for.."
+### The title of this Repo is "Best GPU for.."
 
-AMD latest driver that supports Win8.1 was for RX 480, forcing W7 driver for Rx 580 may work, but untested, and Not official. </br>
-basically AMD is discarded. </br>
+The goal is to find the most compatible GPU that works in all OS, or most OS. </br>
+
+AMD latest driver that supports Win8.1 officially was for RX 480, forcing W7 driver for Rx 580 may work, but untested, Not official. </br>
+basically AMD is discarded for Win8.1x64. </br>
 Nvidia latest GPU that has drivers for Win8.1 is RTX 8000, P6000, Titan Xp, M6000 </br>
 but... RTX 8000 does Not work in OSX Mavericks 10.9.5 requires to buy 2x GPUs or another GPU more compatible with different OS </br>
 
