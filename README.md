@@ -86,7 +86,7 @@ Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, </br>
 Dual Boot: Win8.1x64 + Linux </br>
 to Game on Linux, in Win8.1 a Fast GPU will be overkill, very few software will use it. </br>
 Recomended to install [CUDA-Z](https://cuda-z.sourceforge.net/) to test if driver has CUDA 64-Bit working </br>
-for example: GTX Titan 6GB requires driver 388.71 maximum, Newer driver install, but does Not have CUDA 64-Bit, its Disabled in Newer drivers. </br>
+for example: GTX Titan 6GB requires [driver 388.71](https://www.nvidia.com/en-us/drivers/details/128447/), Newer driver install, but does Not have CUDA 64-Bit, its Disabled in Newer drivers. </br>
 
 Modern / Faster GPU like 4070 or 4070 Super "The best in 200w category for 2024" works on Linux but Not on Win8.1 </br>
 requires to turn-off, open the PC, change GPU's & boot in other OS, </br>
