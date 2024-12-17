@@ -27,7 +27,7 @@ OSX SnowLeopard 10.6.8 cannot be installed on a Mac newer than 2010 </br>
 unless using a Virtual Machine like VMWare Fusion Player 10.2.1 on OSX Catalina </br>
 
 VM does Not have FireWire support, Nor Firewire Pass-through, Nor PCIe Pass-through. </br>
-OSX SnowLeopard 10.6.8 cannot be installed on a VM, requires SnowLeopard Server 10.6.8 </br>
+OSX SnowLeopard 10.6.8 cannot be installed on a VM, requires [SnowLeopard Server 10.6.8](https://en.wikipedia.org/wiki/Mac_OS_X_Server#Mac_OS_X_Server_10.6_(Snow_Leopard)) </br>
 OSX SnowLeopard 10.6.8 is designed for MacPro 5,1 2010 with AMD Radeon HD 5770, HD 5870, HD 7950, GTX Titan 6GB*, K5000*, Quadro 4000* with Optional Drivers. </br>
 Runs on MacMini 2010, maybe 2011, 2012 or recent does Not. </br>
 MacPro 5,1 2012 requires Firmware downgrade to 2010. </br>
