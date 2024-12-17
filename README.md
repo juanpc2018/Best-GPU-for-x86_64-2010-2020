@@ -71,13 +71,14 @@ Best GPU for Dual Boot: </br>
 Low Cost: GT 1050 Ti  </br>
 perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP to run at 160fps, Low power consumption. </br>
 Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, </br>
-IF want Dual Boot: Win8.1x64 + Linux </br>
-to Game on Linux, in Windows a Fast GPU will be overkill, very few software will use it. </br>
-using a Modern / Faster GPU like 4070 or 4070 Super "The best in 200w category" works on Linux but Not on Win8.1 </br>
+Dual Boot: Win8.1x64 + Linux </br>
+to Game on Linux, in Win8.1 a Fast GPU will be overkill, very few software will use it. </br>
+using a Modern / Faster GPU like 4070 or 4070 Super "The best in 200w category in 2024" works on Linux but Not on Win8.1 </br>
 requires to turn-off, open the PC, change GPU's & boot in other OS, </br>
 or install 2x different GPU's at same time in the same machine,</br>
-or purchase a Twin machines to have different GPU's & different OS. </br>
+or purchase Twin machines to have different GPU's & different OS. </br>
 
+OSX SnowLeopard 10.6.8 works with Quadro 4000, K5000, HD 7950, HD 5770, HD 5870, Radeon 6000 series has issues on OSX </br>
 OSX Mavericks 10.9.5 works with GTX Titan 6GB / GTX 780 "the same" and M6000 "+50% faster" </br>
 GTX Titan 6GB / GTX 780 are the true sucessor of Nvidia GTX 580 </br> 
 GTX 680 series were a dissapointment in my opinion, a cut down version with higher clock to compensate, did Not feel an improvement on games like NFS The Run. </br>
