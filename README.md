@@ -102,4 +102,4 @@ but RTX 8000 wont work in OSX, if also have a Mac Pro 5,1 2010 or a MacPro 6,1 2
 Max GPU for OSX HighSierra 10.13.6 is Titan Xp or P6000 </br>
 for OSX Catalina 10.15.7 [the list](http://www.macvidcards.com/store/c19/OS_10.15_Catalina_Compatible.html) is reduced, GTX Titan 6GB works but has some issues, better HD 7950 </br>
 Best AMD GPU for OSX Catalina is Vega 56. </br>
-MacPro 5,1 2010 requires a cable from TeamProfit that converts 2x mini 6-pin GPU to standard 8-pin GPU, some GPU's also require a 1x or 2x SATA ports to 6-pin GPU. </br>
+MacPro 5,1 2010 requires a cable from TeamProfit that converts 2x mini 6-pin GPU to standard 8-pin GPU, some GPU's also require a 1 or 2x SATA ports to 6-pin GPU. </br>
