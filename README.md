@@ -36,7 +36,7 @@ Windows8.1 is similar to OSX HighSierra, the Peak of 32-Bit & 64-Bit. </br>
 but Steem, Origin, Ubisoft re-compliled Launchers so it does Not run on Windows8.1 anymore = Gaming on Win8.1x64 is dead, unless its retro gaming like Eduke32, </br>
 games like [Need For Speed - The Run (2011)](https://en.wikipedia.org/wiki/Need_for_Speed%3A_The_Run) probably wont work, because requires Origin app account, Discontinued and Replaced by EA app. </br>
 but still Win8.1 is important for other Windows Only software like [Microchip Studio for AVR & SAM Devices 7.0.2594 (20 Jun 2022)](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and [older](https://www.microchip.com/en-us/tools-resources/archives/avr-sam-mcus),
-for programmers like [STK 600](https://www.microchip.com/en-us/development-tool/ATSTK600) STK500, etc... that require USB drivers. </br>
+for programmers like [STK 600](https://www.microchip.com/en-us/development-tool/ATSTK600), STK500, etc... that require USB drivers. </br>
 but if Only requires USB drivers, is better to install Win8.1x64 on a 2-core Virtual Machine with USB pass-through. </br>
 [VirtualBox6](https://www.virtualbox.org/wiki/Download_Old_Builds) works well, VirtualBox7 is designed for UEFI, Virtual GPU driver v7 has issues. </br>
 
