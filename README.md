@@ -7,7 +7,6 @@ most important OS from x86_64 era: </br>
 [OSX SnowLeopard 10.6.8](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) </br>
 [OSX Mavericks 10.9.5](https://en.wikipedia.org/wiki/OS_X_Mavericks) </br>
 [OSX HighSierra 10.13.6](https://en.wikipedia.org/wiki/MacOS_High_Sierra)  </br>
-[OSX Mojave 10.14.x](https://en.wikipedia.org/wiki/MacOS_Mojave) </br>
 [OSX Catalina 10.15.7](https://en.wikipedia.org/wiki/MacOS_Catalina) </br>
 [Windows 8.1 (2013-2023)](https://en.wikipedia.org/wiki/Windows_8.1) </br>
 Ubuntu / Kubuntu 10.04 LTS to *buntu 22.04.4 LTS x86_64 or similar .deb </br>
@@ -17,7 +16,7 @@ OSX SnowLeopard 10.6.8 has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(soft
 OSX Mavericks 10.9.5 is the last OS that works with ProTools HD10.3.10 also has 3rd party USB3.0 drivers for VL800 chip, and old Renesas Firmware, Not compatible in following OSX </br>
 OSX HighSierra 10.13.6 is the Peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support and added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
 HighSierra also Read/Writes & Format APFS drives. </br>
-OSX Mojave 10.14 removes 32-Bit driver support, the last to support QuickTime required for ProTools & Avid Media composer Video Engine. </br> 
+[OSX Mojave 10.14](https://en.wikipedia.org/wiki/MacOS_Mojave) removes 32-Bit driver support, still runs some 32-Bit sw like QuickTime required for ProTools & Media composer Video Engine. </br> 
 OSX Catalina 10.15.7 is the last 100% intel, 100% 64-Bit, removed 32-Bit completely, preparing for the transition to ARM CPU's </br>
 OSX BigSur 11, using a RAM drive of 2GB, and a test file of 1GB in [Black Magic Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) or [AJA Speed Test](https://www.aja.com/products/aja-system-test), </br>
 BigSur 11 Hybrid Kernel Runs slower on x86_64 vs. OSX Catalina pure x86_64 kernel. </br>
