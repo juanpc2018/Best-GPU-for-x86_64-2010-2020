@@ -60,10 +60,12 @@ intel iGPU removed Legacy Boot in 12th Gen CPU's, 11th untested, 10th Gen iGPU a
 Win8.1x64 does Not Boot if has Both BIOS & UEFI at same time on the Boot Partition. </br>
 
 OSX Cata 10.15.7 is limited to intel 8th Gen CPU in MacMini 2018 i7 8700B or MacPro 2019 </br>
+Macs are limited to run [T2 Linux](https://wiki.t2linux.org/) Not to be confused with [T2 SDE](https://t2sde.org/)
+same as M1/2/3 Macs are limited to [Asahi Linux](https://asahilinux.org/)
 
-having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like GOG </br>
+having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like [GOG](https://www.gog.com/en/) </br>
 better to game in Linux using Wine, Codeweavers, Bottles, Proton, PlayOnLinux </br>
-but Not everything works in Linux, </br>
+but Not everything works on Linux, </br>
 for example: </br>
 ProTools Ultimate 2020.12 + HDX PCIe + [Razer Core X Chroma](https://egpu.io/best-egpu-buyers-guide/) or similar. </br>
 ProTools HD10.3.10 + HD PCI-x or PCI-e + Magma expansion chassis </br>
