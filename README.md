@@ -92,9 +92,12 @@ GTX Titan 6GB / GTX 780 are the true sucessor of Nvidia GTX 580 </br>
 GTX 680 series were a dissapointment in my opinion, a cut down version with higher clock to compensate, did Not feel an improvement on games like NFS The Run. </br>
 but GTX 680 can be flahsed easy to have EFI and Boot on MAC OSX, same as Radeon HD 7950 </br>
 but Radeon HD 7950 does Not work eGPU in OSX, even it works directly on PCIe </br>
+OSX Mojave 10.14 and Newer OSX Cata 10.15.7 requires a [Metal Compatible GPU](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html#gpuupgrades) </br>
 
 P5000 is +20% faster vs. M6000 but slower vs. Titan X "Maxwell" and slower vs. Titan X "pascal", and slower vs. Titan Xp </br>
-But the fastest Titan Xp, is slower vs. RTX 3070 or newer. </br>
+the fastest Titan Xp is slower vs. RTX 3070 or newer. </br>
 
 using a GPU compatible with Win8.1 & Linux will Not allow to play modern RayTracing Games like Indiana Jones - The Great Circle (2024) unless its a RTX 8000 </br>
 but RTX 8000 wont work in OSX, if also have a Mac Pro 5,1 2010 or a MacPro 6,1 2013 or MacMini 2014 with TB2 eGPU </br> 
+Max GPU for OSX HighSierra 10.13.6 is Titan Xp or P6000 </br>
+for OSX Catalina 10.15.7 [the list](http://www.macvidcards.com/store/c19/OS_10.15_Catalina_Compatible.html) is reduced, GTX Titan 6GB works but has some issues, better HD 7950 </br>
