@@ -59,7 +59,7 @@ requires a GPU compatible with Windows8.1 </br>
 intel iGPU removed Legacy Boot in 12th Gen CPU's, 11th untested, 10th Gen iGPU and older Boot Legacy OS FAT32 500MB partition with BIOS or UEFI, </br>
 Win8.1x64 does Not Boot if has Both BIOS & UEFI at same time on the Boot Partition. </br>
 
-OSX Cata 10.15.7 is limited to intel 8th Gen CPU's on MacMini 2018 [i7-8700B](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_8700b-vs-intel_core_i5_12400) or MacPro 2019 </br>
+OSX Cata 10.15.7 is limited to intel 8th Gen CPU's on MacMini 2018 [i7-8700B](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_8700b-vs-intel_core_i5_12400) or [MacPro 2019](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_w_3275m-vs-intel_core_i9_12900ks) </br>
 Macs are limited to run [T2 Linux](https://wiki.t2linux.org/) Not to be confused with [T2 SDE](https://t2sde.org/)
 same as M1/2/3 Macs are limited to [Asahi Linux](https://asahilinux.org/)
 
