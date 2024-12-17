@@ -18,7 +18,7 @@ OSX Mavericks 10.9.5 is the last OS that works with ProTools HD10.3.10 also has 
 OSX HighSierra 10.13.6 is the peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support and added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
 HighSierra also Read/Writes & Format APFS drives. </br>
 OSX Mojave 10.14 removes 32-Bit driver support, the last to support QuickTime required for ProTools & Avid Media composer Video Engine. </br> 
-OSX Catalina 10.15.7 is the last 100% intel, 100% 64-Bit, removed 32-Bit completely, preparing for the transition to ARM M CPU's </br>
+OSX Catalina 10.15.7 is the last 100% intel, 100% 64-Bit, removed 32-Bit completely, preparing for the transition to ARM CPU's </br>
 OSX BigSur 11, using a RAM drive of 2GB, and a test file of 1GB in [Black Magic Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) or [AJA Speed Test](https://www.aja.com/products/aja-system-test), The Hybrid Kernel Runs slower on x86_64 vs. OSX Catalina pure x86_64 kernel. </br>
 BigSur 11 takes too much time to update from OSX Catalina, and does Not allow to Downgrade. </br>
 
