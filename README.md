@@ -79,7 +79,7 @@ perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP
 Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, </br>
 Dual Boot: Win8.1x64 + Linux </br>
 to Game on Linux, in Win8.1 a Fast GPU will be overkill, very few software will use it. </br>
-using a Modern / Faster GPU like 4070 or 4070 Super "The best in 200w category in 2024" works on Linux but Not on Win8.1 </br>
+using a Modern / Faster GPU like 4070 or 4070 Super "The best in 200w category for 2024" works on Linux but Not on Win8.1 </br>
 requires to turn-off, open the PC, change GPU's & boot in other OS, </br>
 or install 2x different GPU's at same time in the same machine,</br>
 or purchase Twin machines to have different GPU's & different OS. </br>
