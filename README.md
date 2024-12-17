@@ -41,7 +41,7 @@ but if Only requires USB drivers, is better to install Win8.1x64 on a 2-core Vir
 ## GPU candidates:
 
 AMD latest driver that supports Win8.1 officially was for Rx 480, forcing W7x64 driver for Rx 580 may work, but untested, Unofficial. </br>
-basically AMD is discarded for Win8.1x64 if want 3D Games. </br>
+basically AMD is discarded for Win8.1x64 if want 3D Games on Linux. </br>
 
 Nvidia latest GPU that has drivers for Win8.1x64 is RTX 8000, P6000, Titan Xp, M6000 </br>
 but... RTX 8000, P6000, Titan Xp does Not work in OSX Mavericks 10.9.5 requires to buy 2x GPUs </br>
