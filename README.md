@@ -33,7 +33,7 @@ MacPro 5,1 2012 requires Firmware downgrade to 2010. </br>
 Running a more recent VMWare than >10.2.1 requires OSX BigSur 11 or Newer, but OSX Hybrid Kernel becomes -30% slower on x86_64 </br>
 
 Windows8.1 is similar to OSX HighSierra, the Peak of 32-Bit & 64-Bit. </br>
-but Steem, Origin, Ubisoft re-compliled Launchers so it does Not run on Windows8.1 anymore = Gaming on Win8.1x64 is dead, unless its retro gaming like Eduke32, </br>
+but Steem, Origin, Ubisoft re-compliled Launchers so it does Not run on Windows8.1 anymore = Gaming on Win8.1x64 is dead, unless its retro gaming like Eduke32 & Free DRM. </br>
 games like [Need For Speed - The Run (2011)](https://en.wikipedia.org/wiki/Need_for_Speed%3A_The_Run) probably wont work, because requires Origin app account, Discontinued and Replaced by EA app, but EA  requires W10 or later, in a few years EA will stop working on W10 & will only work in W11. </br>
 
 but still Win8.1 is important for other Win Only software like [Microchip Studio for AVR & SAM Devices 7.0.2594 (2022)](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and [older](https://www.microchip.com/en-us/tools-resources/archives/avr-sam-mcus),
