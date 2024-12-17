@@ -15,7 +15,7 @@ Ubuntu / Kubuntu 10.04 LTS to *buntu 22.04.4 LTS x86_64 or similar .deb </br>
 for many Reasons: </br>
 OSX SnowLeopard 10.6.8 has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) PowerPC G4 "emulator" Binary Translation, removed / deleted in OSX Lion 10.7 </br>
 OSX Mavericks 10.9.5 is the last OS that works with ProTools HD10.3.10 also has 3rd party USB3.0 drivers for VL800 chip, and old Renesas Firmware, Not compatible in following OSX </br>
-OSX HighSierra 10.13.6 is the peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support and added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
+OSX HighSierra 10.13.6 is the Peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support and added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
 HighSierra also Read/Writes & Format APFS drives. </br>
 OSX Mojave 10.14 removes 32-Bit driver support, the last to support QuickTime required for ProTools & Avid Media composer Video Engine. </br> 
 OSX Catalina 10.15.7 is the last 100% intel, 100% 64-Bit, removed 32-Bit completely, preparing for the transition to ARM CPU's </br>
@@ -25,9 +25,12 @@ BigSur 11 takes too much time to update from OSX Catalina, and does Not allow to
 
 OSX SnowLeopard 10.6.8 cannot be installed on a Mac newer than 2010 </br>
 unless using a Virtual Machine like VMWare Fusion Player 10.2.1 on OSX Catalina </br>
-but VM does Not have FireWire support, Nor Firewire Pass-through, Nor PCIe Pass-through. </br>
-OSX SnowLeopard is designed for MacPro 5,1 2010 with AMD Radeon HD 5770, HD 5870, HD 7950, GTX Titan 6GB, K5000, Quadro 4000, and others. </br>
-runs on MacMini 2010, maybe 2011, 2012 or recent does Not. </br>
+
+VM does Not have FireWire support, Nor Firewire Pass-through, Nor PCIe Pass-through. </br>
+OSX SnowLeopard 10.6.8 cannot be installed on a VM, requires SnowLeopard Server 10.6.8 </br>
+OSX SnowLeopard 10.6.8 is designed for MacPro 5,1 2010 with AMD Radeon HD 5770, HD 5870, HD 7950, GTX Titan 6GB*, K5000*, Quadro 4000* with Optional Drivers. </br>
+Runs on MacMini 2010, maybe 2011, 2012 or recent does Not. </br>
+MacPro 5,1 2012 requires Firmware downgrade to 2010. </br>
 Running a more recent VMWare than >10.2.1 requires OSX BigSur 11 or Newer, but OSX Hybrid Kernel becomes -30% slower on x86_64 </br>
 
 Windows8.1 is similar to OSX HighSierra, the Peak of 32-Bit & 64-Bit. </br>
