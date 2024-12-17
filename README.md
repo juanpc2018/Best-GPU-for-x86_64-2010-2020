@@ -45,7 +45,7 @@ basically AMD is discarded for Win8.1x64 if want 3D Games on Linux. </br>
 
 Nvidia latest GPU that has drivers for Win8.1x64 is RTX 8000, P6000, Titan Xp, M6000 </br>
 but... RTX 8000, P6000, Titan Xp does Not work in OSX Mavericks 10.9.5 requires to buy 2x GPUs </br>
-or another GPU more compatible with different OS. </br>
+or another GPU more compatible. </br>
 
 Windows 8.1 works in [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) UEFI v9.03 + [ASRock Thunderbolt 4 v1](https://www.asrock.com/mb/spec/product.asp?Model=Thunderbolt%204%20AIC)
 using Dual Boot: Linux & Win8.1 on separate SSD/M.2 </br>
