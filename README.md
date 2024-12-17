@@ -59,8 +59,8 @@ having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is
 better to game in Linux using Wine, Codeweavers, Bottles, Proton, PlayOnLinux </br>
 but Not everything works in Linux, </br>
 for example: </br>
-ProTools Ultimate 2020.12 + HDX PCIe + Razer Core X Chroma </br>
-ProTools HD10.3.10 + HD PCI-x or PCI-e </br>
+ProTools Ultimate 2020.12 + HDX PCIe + [Razer Core X Chroma](https://egpu.io/best-egpu-buyers-guide/) or similar. </br>
+ProTools HD10.3.10 + HD PCI-x or PCI-e + Magma expansion chassis </br>
 Matrox MXO2 MAX + Adobe CS6 Media Encoder / Avid Video Engine </br>
 imacon Photo / 343 / 646 / 848 / 949 SCSI A-sync scanner with FlexColor v4.0 software </br>
 Lynx AES16, RME hdsp 9632 </br>
