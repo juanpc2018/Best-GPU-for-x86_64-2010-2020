@@ -46,24 +46,36 @@ but... RTX 8000, P6000, Titan Xp does Not work in OSX Mavericks 10.9.5 requires 
 or another GPU more compatible with different OS. </br>
 
 Windows 8.1 works in [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z790%20LiveMixer/Specification.asp) UEFI v9.03 + [ASRock Thunderbolt 4 v1](https://www.asrock.com/mb/spec/product.asp?Model=Thunderbolt%204%20AIC)
-using Dual Boot: Linux & Win8.1 on separate SSD or M.2 </br>
+using Dual Boot: Linux & Win8.1 on separate SSD/M.2 </br>
 requires a GPU compatible with Windows8.1 </br>
-having a powerful GPU for Windows is pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like GOG </br>
-is better to game in Linux using Wine, Codeweavers, Bottles, Proton, PlayOnLinux </br>
+intel iGPU removed support for Legacy Boot in 12th Gen CPU's, 11 untested, 10th Gen iGPU and older Boot Legacy OS FAT32 500MB partition with BIOS or UEFI, </br>
+Win8.1x64 does Not Boot if has Both BIOS & UEFI on the Boot Partition. </br>
+
+having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like GOG </br>
+better to game in Linux using Wine, Codeweavers, Bottles, Proton, PlayOnLinux </br>
 but Not everything works in Linux, </br>
 for example: </br>
-ProTools Ultimate 2020.12 + HDX PCIe </br>
+ProTools Ultimate 2020.12 + HDX PCIe + Razer Core X Chroma </br>
 ProTools HD10.3.10 + HD PCI-x or PCI-e </br>
-ilok VST2 plugins work in Linux IF plugin allows to store license on the Machine, Not USB, because ilok-USB requires propietary drivers Not available for Linux. </br>
 Matrox MXO2 MAX + Adobe CS6 Media Encoder / Avid Video Engine </br>
 imacon Photo / 343 / 646 / 848 / 949 SCSI A-sync scanner with FlexColor v4.0 software </br>
+Lynx AES16, RME hdsp 9632 </br>
 and others... </br>
 
+some things work 50/50 </br>
+example: </br>
+ilok VST2 plugins work in Linux IF plugin allows to store license on the Machine, Not USB,</br>
+because ilok-USB requires propietary drivers Not available for Linux, but ilok PC licence works on Wine. </br>
+
 Best GPU for Dual Boot: </br>
-Low Cost: GT 1050 Ti, the perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP to run at 160fps, and Low power consumption. </br>
-Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, IF want Dual Boot Win8.1x64 + Linux to Game on Linux, but in Windows a fast GPU will be overkill, very few software will use it. </br>
-using a Modern / Faster GPU like 4070 or 4070 Super "The best in the 200w category" works on Linux but Not on Win8.1 </br>
-requires to turn-off & open the PC, change GPU's and boot in other OS, or install 2x different GPU's at same time, or purchase a Twin machine to have different GPU's & different OS. </br>
+Low Cost: GT 1050 Ti, perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP to run at 160fps, Low power consumption. </br>
+Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, </br>
+IF want Dual Boot: Win8.1x64 + Linux </br>
+to Game on Linux, in Windows a Fast GPU will be overkill, very few software will use it. </br>
+using a Modern / Faster GPU like 4070 or 4070 Super "The best in 200w category" works on Linux but Not on Win8.1 </br>
+requires to turn-off, open the PC, change GPU's & boot in other OS, </br>
+or install 2x different GPU's at same time in the same machine,</br>
+or purchase a Twin machines to have different GPU's & different OS. </br>
 
 OSX Mavericks 10.9.5 works with GTX Titan 6GB / GTX 780 "the same" and M6000 "+50% faster" </br>
 GTX Titan 6GB / GTX 780 are the true sucessor of Nvidia GTX 580 </br> 
