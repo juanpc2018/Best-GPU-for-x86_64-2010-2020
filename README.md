@@ -1,13 +1,16 @@
 ### Best GPU for x86_64 (2010-2020) </br>
 
-The most important OS from that era in my opinion: </br>
+### The title of this Repo is "Best GPU for.."
+The goal is to find 1x GPU that works in all OS, or most. </br>
+
+most important OS from x86_64 era: </br>
 [OSX SnowLeopard 10.6.8](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) </br>
 [OSX Mavericks 10.9.5](https://en.wikipedia.org/wiki/OS_X_Mavericks) </br>
 [OSX HighSierra 10.13.6](https://en.wikipedia.org/wiki/MacOS_High_Sierra)  </br>
 [OSX Mojave 10.14.x](https://en.wikipedia.org/wiki/MacOS_Mojave) </br>
 [OSX Catalina 10.15.7](https://en.wikipedia.org/wiki/MacOS_Catalina) </br>
 [Windows 8.1 (2013-2023)](https://en.wikipedia.org/wiki/Windows_8.1) </br>
-Linux Ubuntu / Kubuntu 10.04 LTS to *buntu 22.04.4 LTS x86_64 or similar .deb </br>
+Ubuntu / Kubuntu 10.04 LTS to *buntu 22.04.4 LTS x86_64 or similar .deb </br>
 
 for many Reasons: </br>
 OSX SnowLeopard 10.6.8 has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) PowerPC G4 "emulator" Binary Translation, removed / deleted in OSX Lion 10.7 </br>
@@ -29,13 +32,11 @@ Running a more recent VMWare than >10.2.1 requires OSX BigSur or Newer, but OSX 
 Windows 8.1 is similar to OSX HighSierra, the Peak of 32-Bit & 64-Bit. </br>
 but Steem, Origin, Ubisoft re-compliled Launchers so it does Not work on Windows8.1 anymore = Gaming on Win8.1x64 is dead, unless its retro gaming, but some games like Need For Speed The Run probably wont work, </br>
 because requires Origin app account, Discontinued and Replaced by EA app. </br>
-but still Win8.1 is important for other Windows Only software like [Microchip Studio for AVR and SAM Devices- Offline Installer 7.0.2594 	20 Jun 2022 ](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and older,
+but still Win8.1 is important for other Windows Only software like [Microchip Studio for AVR & SAM Devices 7.0.2594 (20 Jun 2022)](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and older,
 for programmers like [STK 600](https://www.microchip.com/en-us/development-tool/ATSTK600) and older STK500, etc..., that require USB drivers. </br>
-but if Only requires USB drivers, probasbly is better to install Win8.1x64 in a Virtual Machine with USB pass-through. </br>
+but if Only requires USB drivers, probably is better to install Win8.1x64 in a Virtual Machine with USB pass-through. </br>
 
-### The title of this Repo is "Best GPU for.."
-
-The goal is to find the most compatible GPU that works in all OS, or most OS. </br>
+## GPU candidates:
 
 AMD latest driver that supports Win8.1 officially was for RX 480, forcing W7 driver for Rx 580 may work, but untested, Not official. </br>
 basically AMD is discarded for Win8.1x64. </br>
