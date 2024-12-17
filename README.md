@@ -86,6 +86,7 @@ or purchase Twin machines to have different GPU's & different OS. </br>
 
 OSX SnowLeopard 10.6.8 works with Quadro 4000, K5000, HD 7950, HD 5770, HD 5870, Radeon 6000 series has issues on OSX </br>
 OSX Mavericks 10.9.5 works with GTX Titan 6GB / GTX 780 "the same" and M6000 "+50% faster" </br>
+GTX Titan Black requires OSX 10.11 or newer </br>
 GTX Titan 6GB / GTX 780 are the true sucessor of Nvidia GTX 580 </br> 
 GTX 680 series were a dissapointment in my opinion, a cut down version with higher clock to compensate, did Not feel an improvement on games like NFS The Run. </br>
 but GTX 680 can be flahsed easy to have EFI and Boot on MAC OSX, same as Radeon HD 7950 </br>
