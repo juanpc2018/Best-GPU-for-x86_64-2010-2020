@@ -51,7 +51,7 @@ Windows 8.1 works in [ASRock Z790 LiveMixer](https://www.asrock.com/mb/Intel/Z79
 Dual Boot: Linux 22.04 LTS & Win8.1 on separate SSD/M.2 </br>
 requires a GPU compatible with Windows8.1 </br>
 intel iGPU removed Legacy Boot in 12th Gen CPU's, 11th untested, 10th Gen iGPU and older Boot Legacy OS FAT32 500MB partition with BIOS or UEFI, </br>
-Win8.1x64 does Not Boot if has Both BIOS & UEFI on the Boot Partition. </br>
+Win8.1x64 does Not Boot if has Both BIOS & UEFI at same time on the Boot Partition. </br>
 
 having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like GOG </br>
 better to game in Linux using Wine, Codeweavers, Bottles, Proton, PlayOnLinux </br>
