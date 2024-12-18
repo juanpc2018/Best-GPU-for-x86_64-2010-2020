@@ -127,5 +127,8 @@ Radeon VII was the best for OSX but many failed with Error 32 "Broken Memory" ca
 MacPro 5,1 2010 requires a cable from TeamProfit that converts 2x mini 6-pin GPU to standard 8-pin GPU, some GPU's also require a 1 or 2x SATA ports to 6-pin GPU. </br>
 
 so far:
-RTX 8000 + Radeon HD 7950 gives broad compatibility between OS. </br>
-Other configurations could be better. </br>
+1x GPU that does all is complicated. </br>
+2x GPU's: 
+RTX 8000 + Radeon HD 7950 gives broad compatibility between different OS. </br>
+3x or more GPU's alllows to optimize individually for each OS case/scenario. </br>
+eGPU's / Thunderbolt allows to swap GPU's much faster on any machine, but HD 7950 does Not work eGPU in OSX. </br>
