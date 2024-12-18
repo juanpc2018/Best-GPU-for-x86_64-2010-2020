@@ -130,5 +130,5 @@ MacPro 5,1 2010 requires a cable from TeamProfit that converts 2x mini 6-pin GPU
 2x GPU's: 
 RTX 8000 + Radeon HD 7950 gives broad compatibility between different OS. </br>
 3x or more GPU's allows to optimize individually for each OS case/scenario. </br>
-eGPU's / Thunderbolt allows to swap GPU's much faster on any machine, but HD 7950 does Not work eGPU in OSX. </br>
+Thunderbolt [eGPU's](https://egpu.io/best-egpu-buyers-guide/) allows to swap GPU's much faster on any machine, but HD 7950 does Not work eGPU in OSX. </br>
 R9 290 / 290x / 280 / 280x / 270x / 270 could be an alternative, Untested. </br>
