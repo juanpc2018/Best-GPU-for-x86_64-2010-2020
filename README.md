@@ -134,7 +134,7 @@ RTX 8000 + Radeon HD 7950 gives broad compatibility between different OS. </br>
 
 #### OSX SnowLeopard requires:
 clean install: [Mac 2008-2011](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard#64-bit_architecture) + [GPU's](https://web.archive.org/web/20090831083420/http://www.apple.com/macosx/specs.html): </br>
-    NVIDIA GeForce 9400M / 9600M GT / 8600M GT / GT 120 / GT 130 / GTX 285 / 8800 GT / 8800 GS / Quadro FX 4800 / FX5600, ATI Radeon 4850 / 4870 / 5770 / 5870 </br>
+    NVIDIA GeForce 9400M / 9600M GT / 8600M GT, GT 120 / GT 130, GTX 285, 8800 GT / GS, Quadro FX 4800 / FX5600, Radeon 4850 / 4870 / 5770 / 5870 </br>
 HD 7950 does Not require drivers in OSX 10.6.8 but clean install OSX 10.6.3 / 10.6.4 DVD Untested </br>
 VM or OSX 10.6.7 iso DVD with more modern GPU drivers. </br>
 NVIDIA Quadro 4000 works in OSX SnowLeopard with optional Drivers in PCIe "eGPU untested", K5000, GTX Titan 6GB, GTX 780 Untested. </br>
