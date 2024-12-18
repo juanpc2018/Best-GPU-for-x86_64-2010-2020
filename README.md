@@ -112,6 +112,10 @@ OSX deleted all AMD & NVIDIA GPU support / drivers for [M2 Mac Pro 2023](https:/
 P5000 is +20% faster vs. M6000 but slower vs. Titan X "Maxwell" and slower vs. Titan X "pascal", and slower vs. Titan Xp </br>
 the fastest Titan Xp is slower vs. RTX 3070 or newer. </br>
 for modern gaming only: purchasing a Non-RayTracing capable GPU is wasting money. </br>
+M6000 is older "more compatible" but there is 12GB and 24GB versions, 24GB is Newer "less wide compatible between multiple OS". </br>
+RTX 8000 is a Good option for Modern Gaming on Linux & Dual Boot on Windows8.1 but incompatible with older OSX </br>
+GTX Titan 6GB is older "more compatible" but.. does Not work well on OSX, has issues with 32-Bit aps, and 64-bit OSX Catalina 10.15.7 </br>
+Titan Xp has Newer drivers for Windows8.1 vs. RTX 8000, P6000 & M6000, is compatible with OSX HighSierra 10.13.6, OSX eGPU, but is useless for modern gaming. </br>
 
 using a GPU compatible with Win8.1 & Linux will Not allow to play modern RayTracing Games like Indiana Jones - The Great Circle (2024) unless its a RTX 8000 </br>
 but RTX 8000 wont work in OSX, if also have a Mac Pro 5,1 2010 or a MacPro 6,1 2013 or MacMini 2014 with TB2 eGPU </br> 
