@@ -132,7 +132,6 @@ RTX 8000 + Radeon HD 7950 gives broad compatibility between different OS. </br>
 3x or more GPU's allows to optimize individually for each OS case/scenario. </br>
 [Thunderbolt](https://egpu.io/best-egpu-buyers-guide/) allows to swap GPU's much faster on any machine, but HD 7950 does Not work eGPU in OSX. </br>
 R9 290 / 290x / 280 / 280x / 270x / 270 could be an alternative, Untested. </br>
-NVIDIA Quadro 4000 works in OSX SnowLeopard with optional Drivers in PCIe "eGPU untested", K5000, GTX Titan 6GB, GTX 780 Untested. </br>
 
 ### OSX SnowLeopard requires:
 clean install: [Mac 2008-2011](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard#64-bit_architecture) + Radeon HD 5770 / 5870 & [others:](https://web.archive.org/web/20090831083420/http://www.apple.com/macosx/specs.html): </br>
@@ -140,3 +139,4 @@ clean install: [Mac 2008-2011](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopa
     ATI Radeon 4850, Radeon 4870 </br>
 HD 7950 does Not require drivers in OSX 10.6.8 but clean install OSX 10.6.3 / 10.6.4 ISO DVD untested </br>
 VM or OSX 10.6.7 iso DVD to use more modern GPU's </br>
+NVIDIA Quadro 4000 works in OSX SnowLeopard with optional Drivers in PCIe "eGPU untested", K5000, GTX Titan 6GB, GTX 780 Untested. </br>
