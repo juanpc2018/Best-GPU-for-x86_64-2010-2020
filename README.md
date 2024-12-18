@@ -104,6 +104,9 @@ GTX 680 series were a dissapointment in my opinion, a cut down version with high
 but GTX 680 can be flahsed easy to have EFI and Boot on MAC OSX, same as Radeon HD 7950 </br>
 but Radeon HD 7950 does Not work eGPU in OSX, even it works directly on PCIe </br>
 OSX Mojave 10.14 and Newer OSX Cata 10.15.7 requires a [Metal Compatible GPU](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html#gpuupgrades) </br>
+most NVIDIA GPU's are Metal Compatible but OSX deleted driver support for most NVIDIA GPU's in OSX Mojave & Catalina. </br>
+most NVIDIA GPU's only go up to OSX HighSierra 10.13.6 </br>
+OSX deleted all AMD & NVIDIA GPU support / drivers for [M2 Mac Pro 2023](https://en.wikipedia.org/wiki/Mac_Pro#Apple_silicon_(2023)) with [OSX Ventura 13.4](https://www.youtube.com/watch?v=OtcSNiU9Zb8&t=299s) </br>
 
 P5000 is +20% faster vs. M6000 but slower vs. Titan X "Maxwell" and slower vs. Titan X "pascal", and slower vs. Titan Xp </br>
 the fastest Titan Xp is slower vs. RTX 3070 or newer. </br>
