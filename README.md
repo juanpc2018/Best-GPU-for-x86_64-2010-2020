@@ -132,4 +132,4 @@ so far:  </br>
 RTX 8000 + Radeon HD 7950 gives broad compatibility between different OS. </br>
 3x or more GPU's alllows to optimize individually for each OS case/scenario. </br>
 eGPU's / Thunderbolt allows to swap GPU's much faster on any machine, but HD 7950 does Not work eGPU in OSX. </br>
-R9 290 / 290x could be an alternative, Untested. </br>
+R9 290 / 290x / 280 / 280x / 270x / 270 could be an alternative, Untested. </br>
