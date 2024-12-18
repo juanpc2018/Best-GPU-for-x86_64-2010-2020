@@ -125,3 +125,7 @@ GTX Titan 6GB works in OSX but has issues, for OSX is better HD 7950 but HD 7950
 Best AMD GPU for OSX Catalina is Vega 56, "64 & Frontier Untested" </br>
 Radeon VII was the best for OSX but many failed with Error 32 "Broken Memory" cannot be repaired, its SMB on the same GPU die. </br>
 MacPro 5,1 2010 requires a cable from TeamProfit that converts 2x mini 6-pin GPU to standard 8-pin GPU, some GPU's also require a 1 or 2x SATA ports to 6-pin GPU. </br>
+
+so far:
+RTX 8000 + Radeon HD 7950 gives broad compatibility between OS. </br>
+Other configurations could be better. </br>
