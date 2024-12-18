@@ -106,10 +106,12 @@ but Radeon HD 7950 does Not work eGPU in OSX, even it works directly on PCIe </b
 OSX Mojave 10.14 and Newer OSX Cata 10.15.7 requires a [Metal Compatible GPU](https://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html#gpuupgrades) </br>
 most NVIDIA GPU's are Metal Compatible but OSX deleted driver support for most NVIDIA GPU's in OSX Mojave & Catalina. </br>
 most NVIDIA GPU's only go up to OSX HighSierra 10.13.6 </br>
+AMD works better on OSX Catalina and older. </br>
 OSX deleted all AMD & NVIDIA GPU support / drivers for [M2 Mac Pro 2023](https://en.wikipedia.org/wiki/Mac_Pro#Apple_silicon_(2023)) with [OSX Ventura 13.4](https://www.youtube.com/watch?v=OtcSNiU9Zb8&t=799s) </br>
 
 P5000 is +20% faster vs. M6000 but slower vs. Titan X "Maxwell" and slower vs. Titan X "pascal", and slower vs. Titan Xp </br>
 the fastest Titan Xp is slower vs. RTX 3070 or newer. </br>
+for modern gaming only: purchasing a Non-RayTracing capable GPU is wasting money. </br>
 
 using a GPU compatible with Win8.1 & Linux will Not allow to play modern RayTracing Games like Indiana Jones - The Great Circle (2024) unless its a RTX 8000 </br>
 but RTX 8000 wont work in OSX, if also have a Mac Pro 5,1 2010 or a MacPro 6,1 2013 or MacMini 2014 with TB2 eGPU </br> 
