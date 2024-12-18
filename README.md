@@ -130,7 +130,9 @@ MacPro 5,1 2010 requires a cable from TeamProfit that converts 2x mini 6-pin GPU
 2x GPU's: 
 RTX 8000 + Radeon HD 7950 gives broad compatibility between different OS. </br>
 3x or more GPU's allows to optimize individually for each OS case/scenario. </br>
-[Thunderbolt](https://egpu.io/best-egpu-buyers-guide/) allows to swap GPU's much faster on any machine, but HD 7950 does Not work eGPU in OSX. </br>
+[Thunderbolt](https://egpu.io/best-egpu-buyers-guide/) allows to swap GPU's much faster on any machine, </br>
+but HD 7950 does Not work eGPU in OSX, and... </br>
+Thunderbolt is only available in [OSX Lion 10.7 / 2011 Macs](https://en.wikipedia.org/wiki/Mac_Mini#Technical_specifications_3) </br>
 
 #### OSX SnowLeopard requires:
 clean install: [Mac 2008-2011](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard#64-bit_architecture) + [GPU's](https://web.archive.org/web/20090831083420/http://www.apple.com/macosx/specs.html): </br>
