@@ -135,7 +135,7 @@ but HD 7950 does Not work eGPU in OSX HighSierra 10.13.1-3 </br>
 Thunderbolt1 is available since [OSX Lion 10.7 / 2011 Macs](https://en.wikipedia.org/wiki/Mac_Mini#Technical_specifications_3) </br>
 Thunderbolt2 is available since MacMini 2014 or [MacPro 6,1 2013](https://en.wikipedia.org/wiki/Mac_Pro#Specifications_2) </br>
 Thunderbolt3/4 "Alpine/Titan/Maple Ridge" add-on card with Intel DSL6540 / DSL7540 / JHL8540 controller won't work in older OSX Mavericks 10.9.5 </br>
-MacPro 5,1 2010 would require a [Thunderbolt2 card](https://www.asrock.com/mb/spec/card.asp?Model=Thunderbolt%202%20AIC) with Intel DSL5320 Controller + Hacks, Untested. </br>
+MacPro 5,1 2010 would require a [Thunderbolt2](https://www.asrock.com/mb/spec/card.asp?Model=Thunderbolt%202%20AIC) "Falcon Ridge" card with Intel DSL5320 Controller + Hacks, Untested. </br>
 
 #### OSX SnowLeopard requires:
 clean install: [Mac 2008-2011](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard#64-bit_architecture) + [GPU's](https://web.archive.org/web/20090831083420/http://www.apple.com/macosx/specs.html): </br>
