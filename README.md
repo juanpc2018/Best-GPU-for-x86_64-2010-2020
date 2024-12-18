@@ -37,10 +37,11 @@ Windows8.1 is similar to OSX HighSierra, the Peak of 32-Bit & 64-Bit. </br>
 but Steem, Origin, Ubisoft re-compliled Launchers so it does Not run on Windows8.1 anymore = Gaming on Win8.1x64 is dead, unless its retro gaming like Eduke32 & Free DRM. </br>
 games like [Need For Speed - The Run (2011)](https://en.wikipedia.org/wiki/Need_for_Speed%3A_The_Run) wont work, because requires Origin app account, Discontinued and Replaced by EA app, but EA requires W10 or later, in a few years EA will stop working on W10 & will only work in W11. </br>
 
-but still Win8.1 is important for other Win Only software like [Microchip Studio for AVR & SAM Devices 7.0.2594 (2022)](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and [older](https://www.microchip.com/en-us/tools-resources/archives/avr-sam-mcus),
+but still Win8.1 is important for other "Win Only" software like [Microchip Studio for AVR & SAM Devices 7.0.2594 (2022)](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and [older](https://www.microchip.com/en-us/tools-resources/archives/avr-sam-mcus),
 for programmers like [STK 600](https://www.microchip.com/en-us/development-tool/ATSTK600), STK500, etc... that require USB drivers. </br>
 but if Only requires USB drivers, is better to install Win8.1x64 on a 2-core Virtual Machine with USB pass-through. </br>
 [VirtualBox6](https://www.virtualbox.org/wiki/Download_Old_Builds) works well, VirtualBox7 is designed for UEFI, Virtual GPU driver v7 has issues. </br>
+
 
 ## GPU candidates:
 
@@ -72,6 +73,7 @@ ProTools HD10.3.10 + HD PCI-x or PCI-e + Magma expansion chassis </br>
 Matrox MXO2 MAX + Adobe CS6 Media Encoder / Avid Video Engine </br>
 imacon Photo / 343 / 646 / 848 / 949 SCSI Async scanner + FlexColor v4.0 software </br>
 Lynx AES16, RME hdsp 9632 </br>
+[Autodesk DWG Trueview (2015-2020)](https://www.filehorse.com/download-autodesk-dwg-trueview/old-versions/)
 and others... </br>
 
 some things work 50/50 </br>
