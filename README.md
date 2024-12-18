@@ -74,7 +74,7 @@ Matrox MXO2 MAX + Adobe CS6 Media Encoder / Avid Video Engine </br>
 imacon Photo / 343 / 646 / 848 / 949 SCSI Async scanner + FlexColor v4.0 software </br>
 Lynx AES16, RME hdsp 9632 </br>
 [Autodesk DWG Trueview (2015-2020)](https://www.filehorse.com/download-autodesk-dwg-trueview/old-versions/) </br>
-[Rhino 3D 7](https://www.rhino3d.com/7/system-requirements/).[6](https://www.rhino3d.com/6/system-requirements/).[5](https://www.rhino3d.com/5/system-requirements/) </br>
+[Rhino 3D 7](https://www.rhino3d.com/7/system-requirements/)/[6](https://www.rhino3d.com/6/system-requirements/)/[5](https://www.rhino3d.com/5/system-requirements/) </br>
 and others... </br>
 
 some things work 50/50 </br>
