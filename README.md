@@ -152,6 +152,7 @@ HD 5770 </br>
 Quadro K620 </br>
 HD 5870 </br>
 HD 7950 = R9 270x </br>
+R9 280x some work flashed </br>
 GTX Titan 6GB Non-Black </br>
 GTX 970 </br>
 Quadro M6000 12GB </br>
