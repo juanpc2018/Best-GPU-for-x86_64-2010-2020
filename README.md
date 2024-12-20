@@ -169,9 +169,11 @@ Nvidia Official Mac support: </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
 Quadro K5000 for Mac, Quadro 4000 for Mac </br>
 Quadro FX 4800, Quadro FX 5600 </br>
-but... drivers also work with others, with some glitches. </br>
+but... drivers also work with others, with some issues. </br>
 K5000 is +127% vs. GTX 285 </br>
+K5000 is +150% vs. Quadro FX 5800 </br>
 K5000 is +200% vs. Quadro 4000 </br>
+K5000 is +260% vs. Quadro FX 5600 </br>
 HD 7950 is +35% vs. K5000 </br>
 GTX 680 is +50% vs. Quadro K5000 </br>
 R9 280x is +66% vs. K5000 </br>
