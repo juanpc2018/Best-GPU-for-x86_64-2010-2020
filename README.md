@@ -164,3 +164,8 @@ GTX 970 </br>
 does Not work at 60fps has issues / glitches, only works ok at 30fps or older OSX. </br>
 °GTX Titan 6GB does Not work well on OSX, has issues with some 32-Bit aps, and some 64-bit in OSX Catalina 10.15.7 </br>
 **The Only Reason to buy a GPU like M6000 or GTX 970 for OSX 10.13.6 is FinalCutPro 10.4 + Compressor 4.4.1 </br>
+Nvidia Official Mac support: </br>
+GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
+Quadro K5000 for Mac, Quadro 4000 for Mac </br>
+Quadro FX 4800, Quadro FX 5600 </br>
+but... drivers also work with others, with some glitches. </br>
