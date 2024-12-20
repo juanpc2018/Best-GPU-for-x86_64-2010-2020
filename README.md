@@ -148,6 +148,7 @@ R9 290 / 290x / 280 / 280x / 270x / 270 could be an alternative to HD 7950, Unte
 
 #### OSX Mavericks 10.9.5 requires: </br>
 
+Quadro 4000 </br>
 HD 5770 </br>
 Quadro K620 </br>
 HD 5870 </br>
