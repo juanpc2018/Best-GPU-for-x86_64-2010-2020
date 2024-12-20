@@ -179,5 +179,6 @@ K5200 is +50% vs. Quadro K5000 </br>
 GTX 680 is +50% vs. Quadro K5000 </br>
 R9 280x is +66% vs. K5000 </br>
 K6000 is +100% vs. K5000 </br>
+GTX Titan 6GB is +120% vs. K5000 </br>
 GTX 970 is +130% vs. K5000 </br>
 M6000-12GB +240% vs. K5000 </br>
