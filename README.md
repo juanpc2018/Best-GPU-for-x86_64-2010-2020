@@ -162,5 +162,5 @@ GTX 970 </br>
 
 *Radeon HD 5770 stops working in OSX HighSierra 10.13.6 </br>
 does Not work at 60fps has issues / glitches, only works ok at 30fps or older OSX. </br>
-°GTX Titan 6GB does Not work well on OSX, has issues with 32-Bit aps, and 64-bit in OSX Catalina 10.15.7 </br>
+°GTX Titan 6GB does Not work well on OSX, has issues with some 32-Bit aps, and some 64-bit in OSX Catalina 10.15.7 </br>
 **The Only Reason to buy a GPU like M6000 or GTX 970 for OSX 10.13.6 is FinalCutPro 10.4 + Compressor 4.4.1 </br>
