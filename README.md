@@ -148,9 +148,14 @@ R9 290 / 290x / 280 / 280x / 270x / 270 could be an alternative to HD 7950, Unte
 
 #### OSX Mavericks 10.9.5 requires: </br>
 
+HD 5770 </br>
 Quadro K620 </br>
+HD 5870 </br>
 HD 7950 = R9 270x </br>
 GTX Titan 6GB Non-Black </br>
 GTX 970 </br>
 Quadro M6000 12GB </br>
 Quadro M6000 24GB unknown </br>
+
+*Radeon HD 5770 stops working ok in OSX HighSierra 10.13.6 </br>
+does Not work at 60fps well, has issues / glitches, only works ok at 30fps. </br>
