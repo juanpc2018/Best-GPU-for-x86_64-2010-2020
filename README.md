@@ -113,7 +113,7 @@ the fastest Titan Xp is slower vs. RTX 3070 or newer. </br>
 for modern gaming only: purchasing a Non-RayTracing capable GPU is wasting money. </br>
 M6000 is older "more compatible" but there is 12GB and 24GB versions, 24GB is Newer "less wide compatible between multiple OS". </br>
 RTX 8000 is a Good option for Modern Gaming on Linux & Dual Boot on Windows8.1 but incompatible with older OSX </br>
-GTX Titan 6GB is older "more compatible" but.. does Not work well on OSX, has issues with 32-Bit aps, and 64-bit OSX Catalina 10.15.7 </br>
+GTX Titan 6GB is older "more compatible" but.. </br>
 Titan Xp has Newer drivers for Windows8.1 vs. RTX 8000, P6000 & M6000, is compatible with OSX HighSierra 10.13.6, OSX eGPU, but is useless for modern gaming, Untested with older OSX, probably Not compatible. </br>
 
 using a GPU compatible with Win8.1 + Linux + OSX does Not allow to play modern RayTracing Games like Indiana Jones - The Great Circle (2024) unless its a RTX 8000 </br>
@@ -155,12 +155,12 @@ HD 5870 </br>
 HD 7950 = R9 270x </br>
 R9 280x some work flashed </br>
 HD 7970 some work flashed </br>
-GTX Titan 6GB Non-Black </br>
+GTX Titan 6GB° Non-Black </br>
 GTX 970 </br>
 [Quadro M6000 12GB (2015)](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/11305_NV_DS_Quadro_M6000_FEB15_NV_US_FNL_HR.pdf) </br>
 [Quadro M6000 24GB (2016)](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/NV-DS-Quadro-M6000-24GB-US-NV-fnl-HR.pdf) Unknown </br>
 
 *Radeon HD 5770 stops working in OSX HighSierra 10.13.6 </br>
 does Not work at 60fps has issues / glitches, only works ok at 30fps or older OSX. </br>
-
+°GTX Titan 6GB does Not work well on OSX, has issues with 32-Bit aps, and 64-bit in OSX Catalina 10.15.7 </br>
 **The Only Reason to buy a GPU like M6000 or GTX 970 for OSX 10.13.6 is FinalCutPro 10.4 + Compressor 4.4.1 </br>
