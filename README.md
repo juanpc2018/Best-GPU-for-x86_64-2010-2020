@@ -172,8 +172,8 @@ Quadro FX 4800, Quadro FX 5600 </br>
 but... drivers also work with others, with some glitches. </br>
 K5000 is +127% vs. GTX 285 </br>
 K5000 is +200% vs. Quadro 4000 </br>
-GTX 680 is +50% faster vs. Quadro K5000 </br>
 HD 7950 is +35% vs. K5000 </br>
+GTX 680 is +50% vs. Quadro K5000 </br>
 R9 280x is +66% vs. K5000 </br>
 GTX 970 is +130% vs. K5000 </br>
 M6000-12GB +240% vs. K5000 </br>
