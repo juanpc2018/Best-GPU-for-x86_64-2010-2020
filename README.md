@@ -148,7 +148,7 @@ R9 290 / 290x / 280 / 280x / 270x / 270 could be an alternative to HD 7950, Unte
 
 #### OSX Mavericks 10.9.5 requires: </br>
 
-Quadro 4000 </br>
+[Quadro 4000](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/NV_DS_QUADRO_4000_forMac_A4_NV_LR.pdf) </br>
 HD 5770 </br>
 Quadro K620 </br>
 HD 5870 </br>
@@ -157,8 +157,10 @@ R9 280x some work flashed </br>
 HD 7970 some work flashed </br>
 GTX Titan 6GB Non-Black </br>
 GTX 970 </br>
-Quadro M6000 12GB </br>
-Quadro M6000 24GB unknown </br>
+[Quadro M6000 12GB (2015)](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/11305_NV_DS_Quadro_M6000_FEB15_NV_US_FNL_HR.pdf) </br>
+[Quadro M6000 24GB Unknown (2016)](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/NV-DS-Quadro-M6000-24GB-US-NV-fnl-HR.pdf) </br>
 
 *Radeon HD 5770 stops working ok in OSX HighSierra 10.13.6 </br>
 does Not work at 60fps well, has issues / glitches, only works ok at 30fps. </br>
+
+**The Only Reason to buy a GPU like M6000 or GTX 970 for OSX 10.13.6 is FinalCutPro 10.4 + Compressor 4.4.1 </br>
