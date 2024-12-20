@@ -137,10 +137,20 @@ Thunderbolt2 is available since MacMini 2014 or [MacPro 6,1 2013](https://en.wik
 Thunderbolt3/4 "Alpine/Titan/Maple Ridge" add-on card with Intel DSL6540 / DSL7540 / JHL8540 controller won't work in older OSX Mavericks 10.9.5 </br>
 MacPro 5,1 2010 would require a [Thunderbolt2](https://www.asrock.com/mb/spec/card.asp?Model=Thunderbolt%202%20AIC) "Falcon Ridge" card with Intel DSL5320 Controller + Hacks, Untested. </br>
 
-#### OSX SnowLeopard requires:
+#### OSX SnowLeopard 10.6.8 requires: </br>
+
 clean install: [Mac 2008-2011](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard#64-bit_architecture) + [GPU's](https://web.archive.org/web/20090831083420/http://www.apple.com/macosx/specs.html): </br>
     NVIDIA GeForce 9400M / 9600M GT / 8600M GT, GT 120 / GT 130, GTX 285, 8800 GT / GS, Quadro FX 4800 / FX5600, Radeon 4850 / 4870 / 5770 / 5870 </br>
 HD 7950 does Not require drivers in OSX 10.6.8 but clean install OSX 10.6.3 / 10.6.4 DVD Untested </br>
 VM or OSX 10.6.7 iso DVD with more modern GPU drivers. </br>
 NVIDIA Quadro 4000 works in OSX SnowLeopard with optional Drivers in PCIe "eGPU untested", K5000, GTX Titan 6GB, GTX 780 Untested. </br>
 R9 290 / 290x / 280 / 280x / 270x / 270 could be an alternative to HD 7950, Untested. </br>
+
+#### OSX Mavericks 10.9.5 requires: </br>
+
+Quadro K620 </br>
+HD 7950 = R9 270x </br>
+GTX Titan 6GB Non-Black </br>
+GTX 970 </br>
+Quadro M6000 12GB </br>
+Quadro M6000 24GB unknown </br>
