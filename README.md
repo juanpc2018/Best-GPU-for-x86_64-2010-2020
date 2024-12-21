@@ -172,6 +172,13 @@ AMD Rx 480 works in OSX HighSierra, Windows8.1 and most Linux </br>
 does Not work in older OSX SnowLeopard, OSX Mavericks. </br>
 it's a balanced option for Dual & Triple Boot. </br>
 
+Nvidia Quadro 4000 has total support from OSX 10.6.8 upto OSX 10.13.6 </br>
+works in Windows8.1 and most Linux. </br>
+has less 3D power, but has wider compatibility. </br>
+
+K5000 is faster vs. Quadro 4000 but also has limited OSX support. </br>
+Rx 480 is faster vs. K5000 but also has limited OSX support. </br>
+
 #### Nvidia Official Mac support: </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
 Quadro K5000 for Mac, Quadro 4000 for Mac </br>
@@ -190,8 +197,8 @@ K5200 is +50% vs. Quadro K5000 </br>
 GTX 680 is +50% vs. Quadro K5000 </br>
 R9 280x is +66% vs. K5000 </br>
 K6000 is +100% vs. K5000 </br>
-RX 480 is +110% vs. K5000 </br>
 GTX 780 is +110% vs. K5000 </br>
+RX 480 is +115% vs. K5000 </br>
 Titan 6GB is +120% vs. K5000 </br>
 R9 290 is +120% vs. K5000 </br>
 GTX 970 is +130% vs. K5000 </br>
