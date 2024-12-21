@@ -176,7 +176,7 @@ Nvidia Quadro 4000 has support from OSX 10.6.8 upto OSX 10.13.6 </br>
 works in Windows8.1 and most Linux. </br>
 has less 3D power, but has wider compatibility. </br>
 
-K5000 is faster vs. Quadro 4000 but also has limited OSX support. </br>
+K5000 is faster vs. Quadro 4000 but has limited OSX support. </br>
 Rx 480 is faster vs. K5000 but also has limited OSX support. </br>
 
 #### Nvidia Official Mac support: </br>
