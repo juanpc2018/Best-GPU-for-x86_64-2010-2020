@@ -184,11 +184,13 @@ Windows8.1 & Linux, same as M2000/M4000/M5000/M6000 </br>
 its 5% faster vs. Rx 480 </br>
 70% faster vs. HD 7950 </br>
 
+P4000 is +10% faster vs. GTX 980 </br>
+P5000 is +10% faster vs. GTX 980 Ti </br>
 P5000 is +20% faster vs. M6000-12 </br>
 P6000 is +65% faster vs. M6000-12 </br>
-P6000 is +60% faster vs. M6000-24 but... </br>
-M6000-12 works in OSX Mavericks 10.9.5 </br>
-Quadro Pascal have limited OSX support. </br> 
+P6000 is +60% faster vs. M6000-24 </br>
+M6000-12 % GTX 970 work in OSX Mavericks 10.9.5 </br>
+Quadro Pascal & GTX 980 Ti have limited OSX support. </br> 
 
 OSX prefers AMD for PCIe, Nvidia for eGPU. </br>
 
