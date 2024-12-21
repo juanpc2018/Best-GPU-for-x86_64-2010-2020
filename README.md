@@ -172,6 +172,7 @@ Quadro K5000 for Mac, Quadro 4000 for Mac </br>
 Quadro FX 4800, Quadro FX 5600 </br>
 but... drivers also work with others, with some issues. </br>
 
+K5000 is +40% vs. Quadro 6000 </br>
 K5000 is +127% vs. GTX 285 </br>
 K5000 is +150% vs. Quadro FX 5800 </br>
 K5000 is +200% vs. Quadro 4000 </br>
