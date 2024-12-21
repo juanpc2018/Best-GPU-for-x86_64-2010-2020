@@ -183,7 +183,7 @@ Rx 480 is faster vs. K5000 but also has limited OSX support. </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
 Quadro K5000 for Mac, Quadro 4000 for Mac </br>
 Quadro FX 4800, Quadro FX 5600 </br>
-but... drivers also work with others, with some issues. </br>
+but others also work with some issues. </br>
 
 K5000 is +260% vs. Quadro FX 5600 </br>
 K5000 is +200% vs. Quadro 4000 </br>
