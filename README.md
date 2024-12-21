@@ -45,7 +45,6 @@ but if Only requires USB drivers, is better to install Win8.1x64 on a 2-core Vir
 ### GPU candidates:
 
 AMD latest driver that supports Win8.1 officially was Rx 480, forcing W7x64 driver for Rx 580 may work, but untested, Unofficial. </br>
-basically AMD is discarded for Win8.1x64 if want modern 3D Games on Linux. </br>
 Rx480 is +50% vs. 1050 Ti, but modern gaming in Windows8.1 is Dead. </br>
 Only software like [Unigine Tropics](https://benchmark.unigine.com/tropics) </br>
 
@@ -166,6 +165,12 @@ does Not work at 60fps has issues / glitches, only works at 30fps or older OSX. 
 °GTX Titan 6GB does Not work well on OSX, has issues with some 32-Bit aps, and some 64-bit in OSX Catalina 10.15.7 </br>
 **The Few Reasons to buy a GPU like M6000 or better for OSX 10.13.6 is FinalCutPro 10.4.3 + Compressor 4.4.1 </br>
 [Rhino3D v6](https://www.rhino3d.com/6/system-requirements/)/[v5](https://www.rhino3d.com/5/system-requirements/) </br>
+
+#### OSX HighSierra 10.13.6: </br>
+
+AMD Rx 480 works in OSX HighSierra, Windows8.1 and most Linux </br>
+does Not work in older OSX SnowLeopard, OSX Mavericks. </br>
+it's a balanced option for Dual & Triple Boot. </br>
 
 #### Nvidia Official Mac support: </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
