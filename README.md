@@ -14,7 +14,7 @@ most important OS from x86_64 era: </br>
 many Reasons: </br>
 OSX SnowLeopard 10.6.8 has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) PowerPC G4 "emulator" Binary Translation, removed / deleted in OSX Lion 10.7 </br>
 OSX Mavericks 10.9.5 is the last OS that works with ProTools HD10.3.10 also has 3rd party USB3.0 drivers for VL800 chip, and old Renesas 200 Firmware, drivers are Not compatible in next OSX </br>
-OSX HighSierra 10.13.6 is the Peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support and added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
+OSX HighSierra 10.13.6 is the Peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support, added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
 HighSierra Read/Writes & Format APFS drives, Detects & Boots from M.2 NVMe drives. </br>
 OSX Mavericks 10.9.5 Only works with M.2 AHCI, Not M.2 NVMe. </br>
 [OSX Mojave 10.14](https://en.wikipedia.org/wiki/MacOS_Mojave) removes 32-Bit driver support, still runs some 32-Bit sw like QuickTime, required for ProTools & Media composer Video Engine. </br> 
@@ -127,14 +127,15 @@ MacPro 5,1 2010 requires a cable from TeamProfit that converts 2x mini 6-pin GPU
 ### so far:  </br>
 1x GPU that does all is complicated. </br>
 2x GPU's: 
-RTX 8000 + Radeon HD 7950 gives broad compatibility between different OS. </br>
-3x or more GPU's allows to optimize individually for each OS case/scenario. </br>
+RTX 8000 + Quadro 4000 for Mac gives maximum compatibility between different OS. </br>
+3x or more GPU's allows to optimize individually each OS case/scenario. </br>
 [Thunderbolt](https://egpu.io/best-egpu-buyers-guide/) allows to swap GPU's much faster on any machine, </br>
 but HD 7950 does Not work eGPU in OSX HighSierra 10.13.1-3 </br>
 Thunderbolt1 is available since [OSX Lion 10.7 / 2011 Macs](https://en.wikipedia.org/wiki/Mac_Mini#Technical_specifications_3) </br>
-Thunderbolt2 is available since MacMini 2014 or [MacPro 6,1 2013](https://en.wikipedia.org/wiki/Mac_Pro#Specifications_2) </br>
-Thunderbolt3/4 "Alpine/Titan/Maple Ridge" add-on card with Intel DSL6540 / DSL7540 / JHL8540 controller won't work in older OSX Mavericks 10.9.5 </br>
-MacPro 5,1 2010 would require a [Thunderbolt2](https://www.asrock.com/mb/spec/card.asp?Model=Thunderbolt%202%20AIC) "Falcon Ridge" card with Intel DSL5320 Controller + Hacks, Untested. </br>
+Thunderbolt2 is available since [MacPro 6,1 2013](https://en.wikipedia.org/wiki/Mac_Pro#Specifications_2) or MacMini 2014 </br>
+Thunderbolt3/4 "Alpine/Titan/Maple Ridge" add-on card with Intel DSL 6540 / DSL 7540 / JHL 8540 controller won't work in older OSX Mavericks 10.9.5 </br>
+TB3 does Not require a patch to reactivate TB2 eGPU in .6 </br>
+MacPro 5,1 2010 would require a [Thunderbolt2](https://www.asrock.com/mb/spec/card.asp?Model=Thunderbolt%202%20AIC) "Falcon Ridge" card with Intel DSL 5320 Controller + Hacks, Untested. </br>
 
 #### OSX SnowLeopard 10.6.8 requires: </br>
 
