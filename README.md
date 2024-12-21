@@ -4,12 +4,12 @@
 The goal is to find 1x GPU that works in all OS, or most OS from 2010 to 2020. </br>
 
 most important OS from x86_64 era: </br>
-[OSX SnowLeopard 10.6.8](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) [Server](https://en.wikipedia.org/wiki/Mac_OS_X_Server#Mac_OS_X_Server_10.6_(Snow_Leopard)) </br>
-[OSX Mavericks 10.9.5](https://en.wikipedia.org/wiki/OS_X_Mavericks) </br>
-[OSX HighSierra 10.13.6](https://en.wikipedia.org/wiki/MacOS_High_Sierra)  </br>
-[OSX Catalina 10.15.7](https://en.wikipedia.org/wiki/MacOS_Catalina) </br>
+[OSX SnowLeopard 10.6.8 (2009-2011)](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) [Server](https://en.wikipedia.org/wiki/Mac_OS_X_Server#Mac_OS_X_Server_10.6_(Snow_Leopard)) </br>
+[OSX Mavericks 10.9.5 (2013-2016)](https://en.wikipedia.org/wiki/OS_X_Mavericks) </br>
 [Windows 8.1 (2013-2023)](https://en.wikipedia.org/wiki/Windows_8.1) </br>
-Ubuntu / Kubuntu 10.04 LTS to 22.04.4 LTS x86_64 or similar .deb </br>
+[OSX HighSierra 10.13.6 (2017-2020)](https://en.wikipedia.org/wiki/MacOS_High_Sierra)  </br>
+[OSX Catalina 10.15.7 (2019-2022)](https://en.wikipedia.org/wiki/MacOS_Catalina) </br>
+Ubuntu / Kubuntu [10.04 LTS to 22.04.4 LTS (2010-2022)](https://en.wikipedia.org/wiki/Ubuntu_version_history#Version_timeline) x86_64 or [similar](https://en.wikipedia.org/wiki/Linux_distribution#History) .deb </br>
 
 many Reasons: </br>
 OSX SnowLeopard 10.6.8 has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) PowerPC G4 "emulator" Binary Translation, removed / deleted in OSX Lion 10.7 </br>
