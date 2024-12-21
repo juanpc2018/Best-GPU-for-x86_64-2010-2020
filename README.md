@@ -181,7 +181,8 @@ Rx 480 is faster vs. K5000 but also has limited OSX support. </br>
 
 GTX 970 has support from OSX 10.9.5 upto OSX 10.13.6 </br>
 Windows8.1 & Linux, same as M2000/M4000/M5000/M6000 </br>
-its 5% faster vs. Rx 480 </br>
+5% faster vs. Rx 480 </br>
+40% faster vs. R9 280x </br>
 70% faster vs. HD 7950 </br>
 
 P4000 is +10% faster vs. GTX 980 </br>
