@@ -179,6 +179,10 @@ has less 3D power, but has wider compatibility. </br>
 K5000 is faster vs. Quadro 4000 but has limited OSX support. </br>
 Rx 480 is faster vs. K5000 but also has limited OSX support. </br>
 
+GTX 970 has support from OSX 10.9.5 upto OSX 10.13.6 </br>
+Windows & Linux, its 5% faster vs. Rx 480 </br>
+OSX prefers AMD for PCIe, Nvidia for eGPU. </br>
+
 #### Nvidia Official Mac support: </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
 Quadro K5000 for Mac, Quadro 4000 for Mac </br>
@@ -206,9 +210,11 @@ R9 290x is +140% vs. K5000 </br>
 RX 580 is +140% vs. K5000 </br>
 Titan Black +140% vs. K5000 </br>
 GTX 780 Ti +150% vs. K5000 </br>
+GTX 980 +180% vs. K5000 </br>
 M6000-12GB +240% vs. K5000 </br>
 M6000-24GB +250% vs. K5000 </br>
 Titan X Maxwell +250% vs. K5000 </br>
+GTX 980 Ti +270% vs. K5000 </br>
 Vega-56 +270% vs. K5000 </br>
 Vega Frontier Ed. +310% vs. K5000 </br>
 Vega-64 +310% vs. K5000 </br>
