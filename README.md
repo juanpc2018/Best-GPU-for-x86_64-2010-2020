@@ -172,7 +172,7 @@ AMD Rx 480 works in OSX HighSierra, Windows8.1 and most Linux </br>
 does Not work in older OSX SnowLeopard, OSX Mavericks. </br>
 it's a balanced option for Dual & Triple Boot. </br>
 
-Nvidia Quadro 4000 has total support from OSX 10.6.8 upto OSX 10.13.6 </br>
+Nvidia Quadro 4000 has support from OSX 10.6.8 upto OSX 10.13.6 </br>
 works in Windows8.1 and most Linux. </br>
 has less 3D power, but has wider compatibility. </br>
 
