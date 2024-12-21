@@ -1,7 +1,7 @@
 ### Best GPU for x86_64 (2010-2020) </br>
 
 ### The title of this Repo is "Best GPU for.."
-The goal is to find 1x GPU that works in all OS, or most from 2010 to 2020. </br>
+The goal is to find 1x GPU that works in all OS, or most OS from 2010 to 2020. </br>
 
 most important OS from x86_64 era: </br>
 [OSX SnowLeopard 10.6.8](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) [Server](https://en.wikipedia.org/wiki/Mac_OS_X_Server#Mac_OS_X_Server_10.6_(Snow_Leopard)) </br>
