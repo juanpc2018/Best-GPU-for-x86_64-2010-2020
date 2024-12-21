@@ -9,7 +9,7 @@ most important OS from x86_64 era: </br>
 [Windows 8.1 (2013-2023)](https://en.wikipedia.org/wiki/Windows_8.1) </br>
 [OSX HighSierra 10.13.6 (2017-2020)](https://en.wikipedia.org/wiki/MacOS_High_Sierra)  </br>
 [OSX Catalina 10.15.7 (2019-2022)](https://en.wikipedia.org/wiki/MacOS_Catalina) </br>
-Ubuntu / Kubuntu [10.04 LTS to 22.04.4 LTS (2010-2022)](https://en.wikipedia.org/wiki/Ubuntu_version_history#Version_timeline) x86_64 or [similar](https://en.wikipedia.org/wiki/Linux_distribution#History) .deb </br>
+[Ubuntu](https://ubuntu.com/download/alternative-downloads) / [Kubuntu](https://kubuntu.org/alternative-downloads/) - [10.04 LTS to 22.04.4 LTS (2010-2022)](https://en.wikipedia.org/wiki/Ubuntu_version_history#Version_timeline) x86_64 or [similar](https://en.wikipedia.org/wiki/Linux_distribution#History) .deb </br>
 
 many Reasons: </br>
 OSX SnowLeopard 10.6.8 has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) PowerPC G4 "emulator" Binary Translation, removed / deleted in OSX Lion 10.7 </br>
