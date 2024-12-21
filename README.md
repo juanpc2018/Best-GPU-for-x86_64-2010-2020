@@ -191,13 +191,13 @@ R9 290 is +120% vs. K5000 </br>
 GTX 970 is +130% vs. K5000 </br>
 R9 290x is +140% vs. K5000 </br>
 RX 580 is +140% vs. K5000 </br>
-Titan Black is +140% vs. K5000 </br>
-GTX 780 Ti is +150% vs. K5000 </br>
+Titan Black +140% vs. K5000 </br>
+GTX 780 Ti +150% vs. K5000 </br>
 M6000-12GB +240% vs. K5000 </br>
 M6000-24GB +250% vs. K5000 </br>
-Titan X Maxwell is +250% vs. K5000 </br>
+Titan X Maxwell +250% vs. K5000 </br>
 Vega-56 +270% vs. K5000 </br>
 Vega-64 +310% vs. K5000 </br>
 Radeon VII +370% vs. K5000 </br>
-Titan X pascal is +470% vs. K5000 </br>
-Titan Xp is +500% vs. K5000 </br>
+Titan X pascal +470% vs. K5000 </br>
+Titan Xp +500% vs. K5000 </br>
