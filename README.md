@@ -165,11 +165,13 @@ GTX 970 </br>
 does Not work at 60fps has issues / glitches, only works at 30fps or older OSX. </br>
 °GTX Titan 6GB does Not work well on OSX, has issues with some 32-Bit aps, and some 64-bit in OSX Catalina 10.15.7 </br>
 **The Only Reason to buy a GPU like M6000 or Vega for OSX 10.13.6 is FinalCutPro 10.4 + Compressor 4.4.1 </br>
-Nvidia Official Mac support: </br>
+
+#### Nvidia Official Mac support: </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
 Quadro K5000 for Mac, Quadro 4000 for Mac </br>
 Quadro FX 4800, Quadro FX 5600 </br>
 but... drivers also work with others, with some issues. </br>
+
 K5000 is +127% vs. GTX 285 </br>
 K5000 is +150% vs. Quadro FX 5800 </br>
 K5000 is +200% vs. Quadro 4000 </br>
@@ -181,10 +183,16 @@ GTX 680 is +50% vs. Quadro K5000 </br>
 R9 280x is +66% vs. K5000 </br>
 K6000 is +100% vs. K5000 </br>
 RX 480 is +110% vs. K5000 </br>
-GTX Titan 6GB is +120% vs. K5000 </br>
+GTX 780 is +110% vs. K5000 </br>
+Titan 6GB is +120% vs. K5000 </br>
 GTX 970 is +130% vs. K5000 </br>
 RX 580 is +140% vs. K5000 </br>
+Titan Black is +140% vs. K5000 </br>
+GTX 780 Ti is +150% vs. K5000 </br>
 M6000-12GB +240% vs. K5000 </br>
 M6000-24GB +250% vs. K5000 </br>
+Titan X Maxwell is +250% vs. K5000 </br>
 Vega-56 +270% vs. K5000 </br>
 Vega-64 +310% vs. K5000 </br>
+Titan X pascal is +470% vs. K5000 </br>
+Titan Xp is +500% vs. K5000 </br>
