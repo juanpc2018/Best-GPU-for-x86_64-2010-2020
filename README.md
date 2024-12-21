@@ -174,6 +174,7 @@ K5000 is +127% vs. GTX 285 </br>
 K5000 is +150% vs. Quadro FX 5800 </br>
 K5000 is +200% vs. Quadro 4000 </br>
 K5000 is +260% vs. Quadro FX 5600 </br>
+R9 270x is +30% vs. K5000 </br>
 HD 7950 is +35% vs. K5000 </br>
 K5200 is +50% vs. Quadro K5000 </br>
 GTX 680 is +50% vs. Quadro K5000 </br>
