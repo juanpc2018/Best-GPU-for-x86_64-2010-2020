@@ -199,7 +199,9 @@ M6000-24GB +250% vs. K5000 </br>
 Titan X Maxwell +250% vs. K5000 </br>
 Vega-56 +270% vs. K5000 </br>
 Vega Frontier Ed. +310% vs. K5000 </br>
+Quadro P5000 +320% vs. K5000 </br>
 Vega-64 +310% vs. K5000 </br>
 Radeon VII +370% vs. K5000 </br>
+Quadro P6000 +470% vs. K5000 </br>
 Titan X pascal +470% vs. K5000 </br>
 Titan Xp +500% vs. K5000 </br>
