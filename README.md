@@ -4,7 +4,7 @@
 The goal is to find 1x GPU that works in all OS, or most from 2010 to 2020. </br>
 
 most important OS from x86_64 era: </br>
-[OSX SnowLeopard 10.6.8](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) Server</br>
+[OSX SnowLeopard 10.6.8](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) [Server](https://en.wikipedia.org/wiki/Mac_OS_X_Server#Mac_OS_X_Server_10.6_(Snow_Leopard)) </br>
 [OSX Mavericks 10.9.5](https://en.wikipedia.org/wiki/OS_X_Mavericks) </br>
 [OSX HighSierra 10.13.6](https://en.wikipedia.org/wiki/MacOS_High_Sierra)  </br>
 [OSX Catalina 10.15.7](https://en.wikipedia.org/wiki/MacOS_Catalina) </br>
