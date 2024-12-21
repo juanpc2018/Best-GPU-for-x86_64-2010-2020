@@ -186,6 +186,7 @@ K6000 is +100% vs. K5000 </br>
 RX 480 is +110% vs. K5000 </br>
 GTX 780 is +110% vs. K5000 </br>
 Titan 6GB is +120% vs. K5000 </br>
+R9 290 is +120% vs. K5000 </br>
 GTX 970 is +130% vs. K5000 </br>
 R9 290x is +140% vs. K5000 </br>
 RX 580 is +140% vs. K5000 </br>
