@@ -144,8 +144,9 @@ clean install: [Mac 2008-2011](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopa
     NVIDIA GeForce 9400M / 9600M GT / 8600M GT, GT 120 / GT 130, GTX 285, 8800 GT / GS, Quadro FX 4800 / FX5600, Radeon 4850 / 4870 / 5770 / 5870 </br>
 HD 7950 does Not require drivers in OSX 10.6.8 but clean install OSX 10.6.3 / 10.6.4 DVD Untested </br>
 VM or OSX 10.6.7 iso DVD with more modern GPU drivers. </br>
-NVIDIA Quadro 4000 works in OSX SnowLeopard with optional Drivers in PCIe "eGPU untested", K5000, GTX Titan 6GB, GTX 780 Untested. </br>
-R9 290 / 290x / 280 / 280x / 270x / 270 could be an alternative to HD 7950, Untested. </br>
+NVIDIA Quadro 4000 works in OSX SnowLeopard with optional Drivers in PCIe, eGPU requires Newer OSX & Untested. </br>
+K5000, GTX Titan 6GB, GTX 780 Untested. </br>
+R9 290 / 290x / 280 / 280x / 270 / 270x could be an alternative to HD 7950, Untested. </br>
 
 #### OSX Mavericks 10.9.5 requires: </br>
 
