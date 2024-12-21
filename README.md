@@ -180,7 +180,9 @@ K5000 is faster vs. Quadro 4000 but has limited OSX support. </br>
 Rx 480 is faster vs. K5000 but also has limited OSX support. </br>
 
 GTX 970 has support from OSX 10.9.5 upto OSX 10.13.6 </br>
-Windows & Linux, its 5% faster vs. Rx 480 </br>
+Windows8.1 & Linux, same as M2000/M4000/M5000/M6000 </br>
+its 5% faster vs. Rx 480 </br>
+
 OSX prefers AMD for PCIe, Nvidia for eGPU. </br>
 
 #### Nvidia Official Mac support: </br>
@@ -196,6 +198,7 @@ K5000 is +127% vs. GTX 285 </br>
 K5000 is +100% vs. Quadro K620 </br>
 K5000 is +40% vs. Quadro 6000 </br>
 R9 270x is +30% vs. K5000 </br>
+Quadro K2200 is +30% vs. K5000 </br>
 HD 7950 is +35% vs. K5000 </br>
 K5200 is +50% vs. Quadro K5000 </br>
 GTX 680 is +50% vs. Quadro K5000 </br>
