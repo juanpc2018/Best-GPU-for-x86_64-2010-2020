@@ -215,7 +215,7 @@ Vega 56, Frontier, 64, VII </br>
 Radeon Vega-64 is the fastest AMD that OSX HighSierra 10.13.6 allows, </br>
 same vs. P5000, faster vs. Titan X Maxwell, slower vs. Titan X Pascal, almost the same as 1070 Ti. </br>
 Radeon Vega-64 requires a mod in OSX to control Fan speed, without Fan Runs at 100%. </br> 
-other option would be to flash it with a Mac Vega Firmaware that works in HighSierra to see if works. </br>
+other option would be to flash it with a Mac Vega Firmaware that works in HighSierra. </br>
 
 #### Nvidia Official Mac support: </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
