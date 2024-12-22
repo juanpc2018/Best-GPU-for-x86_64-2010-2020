@@ -200,11 +200,14 @@ Quadro Pascal & GTX 980 Ti have limited OSX support. </br>
 P6000 24GB, Titan Xp 12GB, GTX 1080 Ti 11GB are the maximun OSX HighSierra 10.13.6 allows </br>
 does Not work in OSX Mavericks 10.9.5 </br>
 does Not work in OSX Catalina 10.15.7 </br>
+does Not work in modern RT games like [Indiana Jones Circle](https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/)" </br>
 almost the same as RTX 5000, but RTX does Not work in OSX. </br>
-RTX 8/6/5000 is the maximum Windows8.1 allows, </br>
-works in modern RT games the "minimum requirement for [Indiana Jones Circle](https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/)" </br>
-RTX 5000 is same as 2080 Super / 3060 Ti or 4060 </br>
-RTX 6000 is same as 2080 Ti / 3070 Ti but slower 4070 </br>
+
+RTX 8/6/5000 is the maximum Windows8.1 allows, RTX 8000 has double memory of RTX 6000 </br>
+RTX works in modern RT games "the minimum requirement for [Indiana Jones Circle](https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/)" </br>
+RTX 5000 is same as 2080 Super / 3060 Ti or 4060 8GB but 16GB of RAM. </br>
+RTX 6000 is same as 2080 Ti / 3070 Ti, slower 4070 with 24GB of RAM. </br>
+RTX 8000 is RTX 6000 with 48GB of RAM. </br>
 
 OSX prefers AMD for PCIe, Nvidia for eGPU. </br>
 
