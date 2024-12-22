@@ -210,6 +210,10 @@ RTX 6000 is same as 2080 Ti / 3070 Ti, slower 4070 with 24GB of RAM. </br>
 RTX 8000 is RTX 6000 with 48GB of RAM. </br>
 
 OSX prefers AMD for PCIe, Nvidia for eGPU. </br>
+Rx 580, Rx 590 unknown, </br>
+Vega 56, Frontier, 64, VII </br>
+Radeon Vega-64 is the fastest AMD that OSX HighSierra 10.13.6 allows. </br>
+same vs. P5000, faster vs. Titan X Maxwell, slower vs. Titan X Pascal almost the same as 1070 Ti. </br>
 
 #### Nvidia Official Mac support: </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
