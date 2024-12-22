@@ -175,25 +175,36 @@ AMD Rx 480 works in OSX HighSierra, Windows8.1 and most Linux </br>
 does Not work in older OSX SnowLeopard, OSX Mavericks. </br>
 it's a balanced option for Dual & Triple Boot. </br>
 
-Nvidia Quadro 4000 has support from OSX 10.6.8 upto OSX 10.13.6 </br>
-works in Windows8.1 and most Linux. </br>
-has less 3D power, but has wider compatibility. </br>
+Nvidia Quadro 4000 works from OSX 10.6.8 upto OSX 10.13.6 </br>
+Windows8.1 and most Linux. </br>
+its a 2D card with basic 3D, but more compatibility. </br>
 
 K5000 is faster vs. Quadro 4000 but has limited OSX support. </br>
 Rx 480 is faster vs. K5000 but also has limited OSX support. </br>
 
-GTX 970 has support from OSX 10.9.5 upto OSX 10.13.6 </br>
-Windows8.1 & Linux, same as M2000/M4000/M5000/M6000 </br>
+GTX 970 is similar vs. Rx 480, works from OSX 10.9.5 upto OSX 10.13.6 </br>
+Windows8.1 & Linux. </br>
 5% faster vs. Rx 480 </br>
 40% faster vs. R9 280x </br>
 70% faster vs. HD 7950 </br>
+
+M2000/M4000/M5000/M6000-12 has support from OSX 10.9.5 upto OSX 10.13.6 </br>
+M6000-24 Uknown. </br>
 
 P4000 is +10% faster vs. GTX 980 </br>
 P5000 is +10% faster vs. GTX 980 Ti </br>
 P5000 is +18/22% faster vs. M6000-12/24 </br>
 P6000 is +65/60% faster vs. M6000-12/24 </br>
-M6000-12 & GTX 970 work in OSX Mavericks 10.9.5 </br>
 Quadro Pascal & GTX 980 Ti have limited OSX support. </br> 
+
+P6000 24GB, Titan Xp 12GB, GTX 1080 Ti 11GB are the maximun OSX HighSierra 10.13.6 allows </br>
+does Not work in OSX Mavericks 10.9.5 </br>
+does Not work in OSX Catalina 10.15.7 </br>
+almost the same as RTX 5000, but RTX does Not work in OSX. </br>
+RTX 8/6/5000 is the maximum Windows8.1 allows, </br>
+works in modern RT games the "minimum requirement for [Indiana Jones Circle](https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/)" </br>
+RTX 5000 is same as 2080 Super / 3060 Ti or 4060 </br>
+RTX 6000 is same as 2080 Ti / 3070 Ti but slower 4070 </br>
 
 OSX prefers AMD for PCIe, Nvidia for eGPU. </br>
 
