@@ -13,14 +13,14 @@ most important OS from x86_64 era: </br>
 
 many Reasons: </br>
 OSX SnowLeopard 10.6.8 has [Rosetta](https://en.wikipedia.org/wiki/Rosetta_(software)) PowerPC G4 "emulator" Binary Translation, removed / deleted in OSX Lion 10.7 </br>
-OSX Mavericks 10.9.5 is the last OS that works with ProTools HD10.3.10 also has 3rd party USB3.0 drivers for VL800 chip, and old Renesas 200 Firmware, drivers are Not compatible in next OSX </br>
-OSX HighSierra 10.13.6 is the Peak of 32-Bit & 64-Bit , .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support, added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
-HighSierra Read/Writes & Format APFS drives, Detects & Boots from M.2 NVMe drives. </br>
+OSX Mavericks 10.9.5 is the last OS that works with ProTools HD10.3.10 also has 3rd party USB3.0 drivers for VL800 chip, and old Renesas 200 Firmware, drivers are Not compatible in next OSX 10.10 Yosemite Nor OSX El Capitan 10.11 </br>
+OSX HighSierra 10.13.6 has USB3 drivers built-in, is the Peak of 32-Bit & 64-Bit .3 has Thunderbolt2 eGPU support, .4 removed TB2 eGPU support, added TB3 eGPU support, requires a patch to reactivate TB2 eGPU in .6 </br>
+Read/Writes/Formats APFS drives, Detects M.2 NVMe drives = OSX has built-in NVMe drivers, Last 144.0.0 EFI Firmware for MacPro5,1 allows to Boot from NVMe, also has built-in drivers. </br>
 OSX Mavericks 10.9.5 Only works with M.2 AHCI, Not M.2 NVMe. </br>
-[OSX Mojave 10.14](https://en.wikipedia.org/wiki/MacOS_Mojave) removes 32-Bit driver support, still runs some 32-Bit sw like QuickTime, required for ProTools & Media composer Video Engine. </br> 
+OSX [Mojave 10.14](https://en.wikipedia.org/wiki/MacOS_Mojave) removes 32-Bit driver support, still runs some 32-Bit sw like QuickTime, required for ProTools & Media composer Video Engine. </br> 
 OSX Catalina 10.15.7 is the last 100% intel, 100% 64-Bit, removed 32-Bit completely, preparing for the transition to ARM CPU's </br>
-OSX BigSur 11, using a RAM drive of 2GB, and a test file of 1GB in [Black Magic Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) or [AJA Speed Test](https://www.aja.com/products/aja-system-test), </br>
-BigSur Hybrid Kernel Runs slower on x86_64 vs. OSX Catalina pure x86_64 kernel. </br>
+OSX BigSur 11, using RAM drive of 2GB, and test file of 1GB in [Black Magic Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) or [AJA Speed Test](https://www.aja.com/products/aja-system-test), </br>
+BigSur ARM Hybrid Kernel Runs slower on x86_64 vs. OSX Catalina pure x86_64 kernel. </br>
 BigSur 11 takes too much time to update from OSX Catalina, and does Not allow to Downgrade. </br>
 
 OSX SnowLeopard 10.6.8 cannot be installed on a Mac newer than 2010 </br>
