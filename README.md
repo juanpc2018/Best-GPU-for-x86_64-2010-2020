@@ -73,7 +73,7 @@ imacon Photo / 343 / 646 / 848 / 949 SCSI Async scanner + FlexColor v4.0 softwar
 Lynx AES16, RME hdsp 9632 </br>
 [Autodesk DWG Trueview (2015-2020)](https://www.filehorse.com/download-autodesk-dwg-trueview/old-versions/) </br>
 [Rhino 3D 7](https://www.rhino3d.com/7/system-requirements/)/[6](https://www.rhino3d.com/6/system-requirements/)/[5](https://www.rhino3d.com/5/system-requirements/) </br>
-and others... </br>
+ReBirth 338 v2.01 and many others... </br>
 
 some things work 50/50 </br>
 example: </br>
@@ -204,8 +204,8 @@ does Not work in modern RT games like [Indiana Jones Circle](https://store.steam
 almost the same as RTX 5000, but RTX does Not work in OSX. </br>
 
 RTX 8/6/5000 is the maximum Windows8.1 allows, RTX 8000 has double memory of RTX 6000 </br>
-RTX works in modern RT games "the minimum requirement for [Indiana Jones Circle](https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/)" </br>
-RTX 5000 is same as 2080 Super / 3060 Ti or 4060 8GB but 16GB of RAM. </br>
+RTX works in modern RT games "the minimum requirement" for [Indiana Jones Circle](https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/) </br>
+RTX 5000 is same as 2080 Super / 3060 Ti or 4060 8GB with 16GB of RAM. </br>
 RTX 6000 is same as 2080 Ti / 3070 Ti, slower 4070 with 24GB of RAM. </br>
 RTX 8000 is RTX 6000 with 48GB of RAM. </br>
 
@@ -213,8 +213,8 @@ OSX prefers AMD for PCIe, Nvidia for eGPU. </br>
 Rx 580, Rx 590 unknown, </br>
 Vega 56, Frontier, 64, VII </br>
 Radeon Vega-64 is the fastest AMD that OSX HighSierra 10.13.6 allows, </br>
-same vs. P5000, faster vs. Titan X Maxwell, slower vs. Titan X Pascal, almost the same as 1070 Ti. </br>
-Radeon Vega-64 requires a mod in OSX to control Fan speed, without Fan Runs at 100%. </br> 
+same vs. P5000, faster vs. Titan X Maxwell, slower vs. Titan X Pascal, "the same" as 1070 Ti. </br>
+Radeon Vega-64 requires a mod in OSX to control Fan speed, without mod Fan Runs at 100%. </br> 
 
 #### Nvidia Official Mac support: </br>
 GeForce GTX 680 | GTX 285 | GT 120 | 8800 GT </br>
