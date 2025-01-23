@@ -29,13 +29,13 @@ unless using a Virtual Machine like VMWare Fusion Player 10.2.1 on OSX Catalina 
 VM does Not have FireWire support, Nor Firewire Pass-through, Nor PCIe Pass-through. </br>
 OSX SnowLeopard 10.6.8 cannot be installed on a VM, requires [OSX Server 10.6.8](https://en.wikipedia.org/wiki/Mac_OS_X_Server#Mac_OS_X_Server_10.6_(Snow_Leopard)) </br>
 OSX SnowLeopard 10.6.8 is designed for MacPro 5,1 2010 with AMD Radeon HD 5770, HD 5870, HD 7950, GTX Titan 6GB*, K5000*, Quadro 4000* with Optional Drivers. </br>
-Runs on MacMini 2010, maybe 2011, 2012 or recent does Not. </br>
+Runs on MacMini 2010, maybe 2011, 2012 or recent Not. </br>
 MacPro 5,1 2012 requires Firmware downgrade to 2010. </br>
 Running a more recent VMWare than >10.2.1 requires OSX BigSur 11 or Newer, but OSX Hybrid Kernel becomes -30% slower on x86_64 </br>
 
 Windows8.1 is similar to OSX HighSierra, the Peak of 32-Bit & 64-Bit. </br>
 but Steem, Origin, Ubisoft re-compliled Launchers so it does Not run on Windows8.1 anymore = Gaming on Win8.1x64 is dead, unless its retro gaming like Eduke32 & Free DRM. </br>
-games like [Need For Speed - The Run (2011)](https://en.wikipedia.org/wiki/Need_for_Speed%3A_The_Run) wont work, because requires Origin app account, Discontinued and Replaced by EA app, but EA requires W10 or later, in a few years EA will stop working on W10 & will only work in W11. </br>
+games like [Need For Speed - The Run (2011)](https://en.wikipedia.org/wiki/Need_for_Speed%3A_The_Run) wont work, requires Origin app account Discontinued and Replaced by EA app, but EA requires W10 or later, in a few years EA will only work in W11. </br>
 
 but still Win8.1 is important for other "Win Only" software like [Microchip Studio for AVR & SAM Devices 7.0.2594 (2022)](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and [older](https://www.microchip.com/en-us/tools-resources/archives/avr-sam-mcus),
 for programmers like [STK 600](https://www.microchip.com/en-us/development-tool/ATSTK600), STK500, etc... that require USB drivers. </br>
@@ -46,7 +46,7 @@ but if Only requires USB drivers, is better to install Win8.1x64 on a 2-core Vir
 
 AMD latest driver that supports Win8.1 officially was Rx 480, forcing W7x64 driver for Rx 580 may work, but untested, Unofficial. </br>
 Rx480 is +50% vs. 1050 Ti, but modern gaming in Windows8.1 is Dead. </br>
-Only software like [Unigine Tropics](https://benchmark.unigine.com/tropics) </br>
+Only software like [Unigine Tropics](https://benchmark.unigine.com/tropics) or similar. </br>
 
 Nvidia latest GPU that has drivers for Win8.1x64 is RTX 8000, P6000, Titan Xp, M6000 </br>
 but... RTX 8000, P6000, Titan Xp does Not work in OSX Mavericks 10.9.5 requires to buy 2x GPUs </br>
@@ -59,13 +59,13 @@ intel iGPU removed Legacy Boot in 12th Gen CPU's, 11th untested, 10th Gen iGPU a
 Win8.1x64 does Not Boot if has Both BIOS & UEFI at same time on the Boot Partition. </br>
 
 OSX Cata 10.15.7 is limited to intel 8th Gen CPU's on MacMini 2018 [i7-8700B](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i7_8700b-vs-intel_core_i5_12400) or [MacPro 2019](https://www.cpu-monkey.com/en/compare_cpu-intel_xeon_w_3275m-vs-intel_core_i9_12900ks) </br>
-Macs are limited to run [T2 Linux](https://wiki.t2linux.org/) Not to be confused with [T2 SDE](https://t2sde.org/)
-same as M1/2/3 Macs are limited to [Asahi Linux](https://asahilinux.org/)
+Macs are limited to run [T2 Linux](https://wiki.t2linux.org/) Not to be confused with [T2 SDE](https://t2sde.org/) </br>
+same as M1/2/3 Macs are limited to [Asahi Linux](https://asahilinux.org/) </br>
 
 having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like [GOG](https://www.gog.com/en/) </br>
 better to game in Linux using Wine, Codeweavers, Bottles, Proton, PlayOnLinux </br>
 but Not everything works on Linux, </br>
-for example: </br>
+Works: </br>
 ProTools Ultimate [2020.12](https://avidtech.my.salesforce-sites.com/pkb/articles/en_US/Compatibility/Pro-Tools-Operating-System-Compatibility-Chart) + HDX PCIe + [Razer Core X Chroma](https://egpu.io/best-egpu-buyers-guide/) or similar. </br>
 ProTools HD10.3.10 + HD PCI-x or PCI-e + Magma expansion chassis </br>
 Matrox MXO2 MAX + Adobe CS6 Media Encoder / Avid Video Engine </br>
