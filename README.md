@@ -141,9 +141,9 @@ RTX 8000 + Quadro 4000 for Mac gives maximum compatibility between different OS.
 but HD 7950 does Not work eGPU in OSX HighSierra 10.13.1-3 </br>
 Thunderbolt1 is available since [OSX Lion 10.7 / 2011 Macs](https://en.wikipedia.org/wiki/Mac_Mini#Technical_specifications_3) </br>
 Thunderbolt2 is available since [MacPro 6,1 2013](https://en.wikipedia.org/wiki/Mac_Pro#Specifications_2) or MacMini 2014 </br>
-Thunderbolt3/4 "Alpine/Titan/Maple Ridge" add-on card with Intel DSL 6540 / DSL 7540 / JHL 8540 controller won't work in older OSX Mavericks 10.9.5 </br>
-TB3 does Not require a patch to reactivate TB2 eGPU in .6 </br>
-MacPro 5,1 2010 would require a [Thunderbolt2](https://www.asrock.com/mb/spec/card.asp?Model=Thunderbolt%202%20AIC) "Falcon Ridge" card with Intel DSL 5320 Controller + Hacks, Untested. </br>
+OSX HighSierra 10.13.6 could work with Thunderbolt3 "Alpine/Titan/Maple Ridge" card with Intel 6540 / 7540 / 8540 controller but won't work in OSX Mavericks 10.9.5 </br>
+TB3 does Not require patch to reactivate TB2 eGPU in OSX HighSierra 10.13.6 </br>
+OSX Mavericks 10.9.5 + MacPro 5,1 2010 require a [Thunderbolt2](https://www.asrock.com/mb/spec/card.asp?Model=Thunderbolt%202%20AIC) "Falcon Ridge" card with Intel 5320 Controller + Hacks, Untested. </br>
 
 #### OSX SnowLeopard 10.6.8 requires: </br>
 
