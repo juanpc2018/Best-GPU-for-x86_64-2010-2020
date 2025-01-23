@@ -80,7 +80,8 @@ Lynx AES16, RME hdsp 9632 </br>
 ReBirth 338 v2.01 and many others... </br>
 
 ### Best GPU for Dual Boot: </br>
-Low Cost: GT 1050 Ti  </br>
+Low Cost: </br>
+GTX 1050 Ti  </br>
 perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP to run at 160fps, Low power consumption. </br>
 Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, </br>
 Dual Boot: Win8.1x64 + Linux </br>
