@@ -64,8 +64,12 @@ same as M1/2/3 Macs are limited to [Asahi Linux](https://asahilinux.org/) </br>
 
 having a powerful GPU for Win8.1 is almost pointless because Modern 3D Gaming is Dead in Win8.1 unless its DRM Free like [GOG](https://www.gog.com/en/) </br>
 better to game in Linux using Wine, Codeweavers, Bottles, Proton, PlayOnLinux </br>
-but Not everything works on Linux, </br>
-Works: </br>
+but Not everything works on Linux, some things work 50/50 </br>
+example: </br>
+ilok VST2 plugins work in Linux IF plugin allows to store license on the Machine, Not USB,</br>
+because ilok-USB requires propietary drivers Not available for Linux, but ilok PC licence works on Wine. </br>
+
+### Works in W8.1: </br>
 ProTools Ultimate [2020.12](https://avidtech.my.salesforce-sites.com/pkb/articles/en_US/Compatibility/Pro-Tools-Operating-System-Compatibility-Chart) + HDX PCIe + [Razer Core X Chroma](https://egpu.io/best-egpu-buyers-guide/) or similar. </br>
 ProTools HD10.3.10 + HD PCI-x or PCI-e + Magma expansion chassis </br>
 Matrox MXO2 MAX + Adobe CS6 Media Encoder / Avid Video Engine </br>
@@ -75,12 +79,7 @@ Lynx AES16, RME hdsp 9632 </br>
 [Rhino 3D 7](https://www.rhino3d.com/7/system-requirements/)/[6](https://www.rhino3d.com/6/system-requirements/)/[5](https://www.rhino3d.com/5/system-requirements/) </br>
 ReBirth 338 v2.01 and many others... </br>
 
-some things work 50/50 </br>
-example: </br>
-ilok VST2 plugins work in Linux IF plugin allows to store license on the Machine, Not USB,</br>
-because ilok-USB requires propietary drivers Not available for Linux, but ilok PC licence works on Wine. </br>
-
-Best GPU for Dual Boot: </br>
+### Best GPU for Dual Boot: </br>
 Low Cost: GT 1050 Ti  </br>
 perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP to run at 160fps, Low power consumption. </br>
 Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, </br>
