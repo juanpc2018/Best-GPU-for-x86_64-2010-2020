@@ -114,7 +114,7 @@ AMD works better on OSX Catalina and older. </br>
 OSX deleted all AMD & NVIDIA GPU support / drivers for [M2 Mac Pro 2023](https://en.wikipedia.org/wiki/Mac_Pro#Apple_silicon_(2023)) with [OSX Ventura 13.4](https://www.youtube.com/watch?v=OtcSNiU9Zb8&t=799s) </br>
 
 P5000 is +20% faster vs. M6000 but slower vs. Titan X "Maxwell" and slower vs. Titan X "pascal", and slower vs. Titan Xp </br>
-the fastest Titan Xp is slower vs. RTX 3070. </br>
+but Titan Xp is slower vs. RTX 3070. </br>
 for modern gaming only: </br>
 purchasing a Non-RayTracing capable GPU with less than 12GB is wasting money. </br>
 M6000 is older "more compatible" but there is 12GB and 24GB versions, 24GB is Newer "less compatible between OS". </br>
