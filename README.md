@@ -80,14 +80,20 @@ Lynx AES16, RME hdsp 9632 </br>
 ReBirth 338 v2.01 and many others... </br>
 
 ### Best GPU for Dual Boot: </br>
+
+Win8.1x64 + Linux </br>
+
 Low Cost: </br>
 GTX 1050 Ti  </br>
 perfect option, has DisplayPort for New Monitors like LG 34GP63A that require DP to run at 160fps, Low power consumption. </br>
-Fastest GPU: RTX 8000, P6000, Titan Xp, M6000, </br>
-Dual Boot: Win8.1x64 + Linux </br>
-to Game on Linux, in Win8.1 a Fast GPU will be overkill, very few software will use it. </br>
-Recomended to install [CUDA-Z](https://cuda-z.sourceforge.net/) to test if driver has CUDA 64-Bit working </br>
-for example: GTX Titan 6GB requires [driver 388.71](https://www.nvidia.com/en-us/drivers/details/128447/), Newer driver install, but does Not have CUDA 64-Bit, its Disabled in Newer drivers. </br>
+Fastest GPU: </br>
+RTX 8000, P6000, Titan Xp, M6000, </br>
+
+Game on Linux, in Win8.1 a Fast GPU will be overkill, very few software will use it. </br>
+Recomended: [CUDA-Z](https://cuda-z.sourceforge.net/) to test if driver has CUDA 64-Bit working </br>
+for example: </br>
+GTX Titan 6GB requires [driver 388.71](https://www.nvidia.com/en-us/drivers/details/128447/), </br> 
+Newer driver install, but does Not have CUDA 64-Bit, its Disabled in Newer drivers. </br>
 
 Modern / Faster GPU like 4070 or 4070 Super "The best in 200w category for 2024" works on Linux but Not on Win8.1 </br>
 requires to turn-off, open the PC, change GPU's & boot in other OS, </br>
@@ -108,9 +114,10 @@ AMD works better on OSX Catalina and older. </br>
 OSX deleted all AMD & NVIDIA GPU support / drivers for [M2 Mac Pro 2023](https://en.wikipedia.org/wiki/Mac_Pro#Apple_silicon_(2023)) with [OSX Ventura 13.4](https://www.youtube.com/watch?v=OtcSNiU9Zb8&t=799s) </br>
 
 P5000 is +20% faster vs. M6000 but slower vs. Titan X "Maxwell" and slower vs. Titan X "pascal", and slower vs. Titan Xp </br>
-the fastest Titan Xp is slower vs. RTX 3070 or newer. </br>
-for modern gaming only: purchasing a Non-RayTracing capable GPU with less than 12GB is wasting money. </br>
-M6000 is older "more compatible" but there is 12GB and 24GB versions, 24GB is Newer "less compatible between multiple OS". </br>
+the fastest Titan Xp is slower vs. RTX 3070. </br>
+for modern gaming only: </br>
+purchasing a Non-RayTracing capable GPU with less than 12GB is wasting money. </br>
+M6000 is older "more compatible" but there is 12GB and 24GB versions, 24GB is Newer "less compatible between OS". </br>
 RTX 8000 is a Good option for Modern Gaming on Linux & Best option for Dual Boot with Windows8.1 but incompatible with older OSX </br>
 GTX Titan 6GB is older "more compatible" but.. </br>
 Titan Xp has Newer drivers for Windows8.1 vs. RTX 8000, P6000 & M6000, compatible with OSX HighSierra 10.13.6, OSX eGPU, but is useless for modern gaming, </br>
